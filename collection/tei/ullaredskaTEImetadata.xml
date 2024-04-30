@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <head><w norm="slåtter" pos="VV">SLÖTTA</w> <w norm="i" pos="II">I</w> <placeName><w norm="Hjärtared" pos="NP1">HJÄRTARE</w></placeName> <w norm="genom" pos="II">GENOM</w> <w norm="tiderna" pos="NN2">TIERA</w>!</head>
+         <p><w norm="när" pos="RR">När</w> <w norm="jag" pos="PPIS1">ja</w> <w norm="var" pos="VBDZ">va</w> <w norm="liten" pos="JJ">liten</w> <w norm="så" pos="CS">så</w> <w norm="hade de" pos="VHD">haddome</w> <w norm="fortfarande" pos="RR">fortfarande</w> <w norm="häst" pos="NN1">häst</w> <w norm="i" pos="II">i</w> <placeName><w norm="Hjärtared" pos="NP1">Hjärtare</w></placeName>. <w norm="men" pos="CCB">Men</w> <date when="1961"><w pos="MC">1961</w></date> <w norm="så" pos="CS">så</w> <w norm="köpte" pos="VVD">köpte</w>
+            <lb/><w norm="pappa" pos="NN1">pappa</w> <w norm="den" pos="AT">den</w> <w norm="första" pos="MD">förste</w> <w norm="traktorn" pos="NN1">traoktorn</w>. <w norm="och" pos="CC">Å</w> <w norm="sedan" pos="RR">sen</w> <w norm="dröjde det" pos="VVD">sinkat”la</w> <w norm="inte" pos="XX">inte</w> <w norm="länge" pos="RR">länge</w> <w norm="innan" pos="CS">inna</w> <w norm="hästen" pos="NN1">hästen</w> <w norm="blev" pos="VVD">bla</w> <w norm="pensionär" pos="NN1">pen-
+            <lb/>sionär</w>. <w norm="den" pos="PPH1">Den</w> <w norm="som" pos="PNQS">som</w> <w norm="bara" pos="RR">bare</w> <w norm="hade" pos="VHD">hade</w> <w norm="en" pos="AT1">en</w> <w norm="häst" pos="NN1">häst</w> <w norm="fick" pos="VVD">fick</w> <w norm="nöja" pos="VVI">nöja</w> <w norm="sig" pos="PPX1">se</w> <w norm="med" pos="II">mä</w> <w norm="en" pos="AT1">en</w> <w norm="slåttermaskin" pos="NN1">slöttermaskin</w> <w norm="som" pos="PN1">som</w>
+            <lb/><w norm="tog" pos="VVD">tok</w> <w norm="fyra" pos="MC1">fyra</w> <w norm="fot" pos="NN1">fot</w>, <w norm="men" pos="CCB">men</w> <w norm="de" pos="PPHS2">da</w> <w norm="som" pos="PN">som</w> <w norm="hade" pos="VHD">hade</w> <w norm="parhästar" pos="NN2">parhästa</w> <w norm="kunde" pos="VV">kånne</w> <w norm="ha" pos="VHI">ha</w> <w norm="femfotare" pos="NN1">femfotare</w>. <w norm="jag" pos="PPIS1">Ja”</w> <w norm="kan" pos="VM">kan</w> <w norm="inte" pos="XX">inte</w>
+            <lb/><w norm="minnas" pos="VHI">minnas</w> <w norm="att" pos="CST">att</w> <w norm="de" pos="PPHS2">da</w> <w norm="gick" pos="VVD">ginge</w> <w norm="och" pos="CC">å</w> <w norm="vände" pos="VVD">vände</w> <w norm="hö" pos="NN">hö</w> <w norm="för" pos="RR">för</w> <w norm="hand" pos="NN1">hann</w>, <w norm="men" pos="CCB">men</w> <w norm="sådant" pos="PN">söddet</w> <w norm="förekom" pos="VVD">förekom</w> <w norm="ju" pos="RR">ju</w>. <w norm="om" pos="CS">Om</w> <w norm="jag" pos="PPIS1">ja</w>
+            <lb/><w norm="minns" pos="VV0">minns</w> <w norm="rätt" pos="RR">rätt</w>, <w norm="så" pos="CS">så</w> <w norm="köpte" pos="VVD">köpte</w> <w norm="pappa" pos="NN1">pappa</w> <w norm="en" pos="AT1">en</w> <w norm="hövändare" pos="NN1">hövännare</w> <date when="1959"><w pos="MC">1959</w></date>. <w norm="det" pos="PPH1">De</w> <w norm="var" pos="VBDZ">va</w> <w norm="en" pos="AT1">en</w> <w norm="sådan där" pos="PN">söndäringa</w> <w norm="unknown" pos="NN1">sprätt</w>
+            <lb/><w norm="som" pos="PN1">som</w> <w norm="vi" pos="PPIS2">vi</w> <w norm="kallade dem" pos="VVD">kalltom”et</w> <w norm="och" pos="CC">å</w> <w norm="den" pos="PPH1">den</w> <w norm="kördes" pos="VVD">kördes</w> <w norm="ju" pos="RR">ju</w> <w norm="med" pos="II">mä</w> <w norm="hästen" pos="NN1">hästen</w> <w norm="de" pos="PN">dom</w> <w norm="första" pos="MD">förste</w> <w norm="åren" pos="NN2">åra</w>. <w norm="när" pos="RR">När</w> <w norm="traktorn" pos="NN1">traoktorn</w>
+            <lb/><w norm="hade" pos="VHN">hade</w> <w norm="kommit" pos="VVN">kommet</w> <w norm="till" pos="II">te</w> <w norm="så" pos="CS">så</w> <w norm="skruvade" pos="VVD">skrua</w> <w norm="de" pos="PPHS2">da</w> <w norm="åt" pos="RR">å</w> <w norm="unknown" pos="NN">skäkera</w> <w norm="och" pos="CC">å</w> <w norm="tog" pos="VVD">tok</w> <w norm="ned" pos="RR">ner</w> <w norm="maskinen" pos="NN1">maskinen</w> <w norm="till" pos="II">te</w> <w norm="Smed-Sven" pos="NP1">sme”-Swen</w>
+            <lb/>(<w norm="Sven" pos="NP1">Sven</w> <w norm="Carlsson" pos="NP1">Carlsson</w> <w norm="i" pos="II">i</w> <placeName><w norm="Ullared" pos="NP1">Ullared</w></placeName> ) <w norm="så" pos="CS">så</w> <w norm="svetsade" pos="VVD">swetsa</w> <w norm="han" pos="PPHS1">han</w> <w norm="ihop" pos="RR">ihop</w> <w norm="en" pos="AT1">a</w> <w norm="dragstång" pos="NN1">dragstång</w>.</p>
+            
+            <p>De va ju liadant mä slöttermaskinen, där fick en skära å parstånga å så
+            <lb/>smidde Swen te ett pär järn, så att en konne köppla”n ätter traoktorn. Men
+            <lb/>då gick där ju åt två personer när en skålle slö för en skålle ju dra i spaken,
+            <lb/>de va ju uhällit kanveta. Men smeen va ju en rikti oppfinnare så han dro en
+            <lb/>vajer ifrå tröva på maskinen å den gick igönom a talja som satt rättså laongt
+            <lb/>fram på staonga, å så en krok i ännen som passte på den ene lyftarmen på
+            <lb/>traoktorn. Så när en dro i lyftspaken så lötte”t i lien på maskinen. Sen gick
+            <lb/>et la bra så länge där va usselt gräs älla de va tört, men va där bra gräs älla
+            <lb/>de va vått å lejder så va ju maskinen för lätt när där inte satt nön på setsen,
+            <lb/>då velle”t kasa. Så då kånne”t bära te att ja fick setta där som tynge. Söddet
+            <lb/>kånne ju en småpajk dåva te.</p>
+            
+            <p>När gräset va slaet å vänt nön gaong så skållet ju hängas. I Hjärtare
+            <lb/>haddome allti nie staka i hässjera. När en skålle sätta a hässja så fick en ju
+            <lb/>börja mä å ta ånna gräset där hu skålle stå. Sen va”et ju te å hogga hål mä
+            <lb/>a gärsstång. Stakana skålle stå litegrann i sicksack å helst lite grövre staka
+            <lb/>åt ännana te, ännastakana skålle Iuta utåt. Om gräset va tongt å dålit tört så
+            <lb/>sattom”e iblann stiver på ännastakana. Da fick en sno fast mä en tråaståmp.</p>
+            
+            <p>Detta att en hade nie staka i hässjera berodde på att de ble ett lagom
+            <lb/>stort lass när en körde löshö mä häst. Vi användom vanli hässjetrå som va
+            <lb/>virater på tråbräder. De” skålle gå bra å hässja på snöre hade farsan hört,
+            <lb/>då kan en bare skära å snörena så höet datt rätt ner, å sen slänga snörena.
+            <lb/>De låter la maocklit men de va bare de att desse specielle snörena vore
+            <lb/>gjorda å papper, å när da blee foktia så längde de se så hele skiten sack.
+            <lb/>Så de ble la bare en gaong. Tre eller fyra tråa brukte”t va. Te å börja mä så
+            <lb/>dro ju hästen släpriva men da gick et ju inte å ha te traoktorn, så då köptes
+            <lb/>där in a traoktorsläpriva. Denna riva brukte ja ofta få köra, när ja va bleen
+            <lb/>såpass stor så ja räckte ner te trövera. Å de sinka ju inte så länge inna en
+            <lb/>hade gjort de när de gällde en liten Fordson Dexta.</p>
+            
+            <p>10</p>
+            
+            <p>Nönting som ja ä tjongen te å nämna, de ä samarbetet som vi haddom
+            <lb/>imällom ställena i Övrahjärtare. Däfför vorom”e gött om fölk när vi häss-
+            <lb/>jam, sju, åtta personer iblann. Å då fick minsann riva gå hela tia, så da slåppe
+            <lb/>å stå å luta se imot tjueskaftet. Anders (Emanuelsson) han tyckte att ja va
+            <lb/>lite väl grisker iblann, så de va nock bäst å höppa ånna när ja kom färane,
+            <lb/>han va la rädder för å bli överkörd.</p>
+            
+            <p>Dehäringa mä den gamle hästaslöttermaskinen blee da kwickt kee å,då
+            <lb/>blaet att da lejde Bo i Ängasjö te å slö nöra år inna gobbana sloe se ihop å
+            <lb/>köpte ett eget slötteraggregat. Nu hade arbetsbredda kommet opp i sex fot.
+            <lb/>Å den gamle sprätten bla utbytt mot a gaffelsidräfsa.</p>
+            
+            <p>Där va ju tre ställe i Övrahjärtare. Å så arrenderame Åke Bengtssons i
+            <lb/>Yttrahjärtare å te Håkes köptome gräset på rot i många år. När allt detta va
+            <lb/>opphängt på hässjer så gjordome slutrycket oppe i Grönli. Å de kan ja si,
+            <lb/>att där va gött om bå blinninga å aent illtörje.</p>
+            
+            <p>Ja minns att ett år när de va bra gräs så haddome 160 hässjer ståane inna
+            <lb/>vi börjtom å köra in et.</p>
+            
+            <p>Körs, wa vi sletom, en la då raint inte på hullet da vekera, men de va
+            <lb/>ju rolit ändå. När wi sletom som värst så kom Elsa i skolehuset å sae att
+            <lb/>i ättermedda ska i komma te me på kaffe, ja har gjort jorgobbstårta. De
+            <lb/>behövdena la inte si två gaonger för storbenna de vorome la raint inte. De
+            <lb/>kånne bli rättså gött om fölk i henna trägårn när alle gobba, fruntimmer å
+            <lb/>onga komme ihop.</p>
+            
+            <p>Å sen gick ett la i ett enda masadra”, när de sista va opphängt så fick en
+            <lb/>ta te å köra in.</p>
+            
+            <p>Hemma haddom vi dressinhiss, de vanliaste va ju annars släphiss. För
+            <lb/>den som inte vet wa en dressinhiss ä så får ja tala om att de ä en sorts tra-
+            <lb/>vers som går på en räls som hänger i ryggåsen. Hemma va de en träräls
+            <lb/>Sex gånger sex tåm som va beslaen mä plattjärn oppepå. En körde in lasset
+            <lb/>på loen å spännde ifrå marra, hu fick gå ut ve sia om. Sen sto där en tom
+            <lb/>vaong ute ve gavelen som en spände för. Längst bak på långvaongsträet
+            <lb/>satt a ögla å där kroka en fast vajern. När en då försiktit körde fram så åka
+            <lb/>lasset opp i taket, där klickat te å så for lasset in på rännet. De som höllde
+            <lb/>ihop höet de va ett pär vajra som låp igönom två klena träslaner som låe
+            <lb/>på flaket, å mitt onnerte satt en lås. Å när en ryckte i snöret te låsen så datt
+            <lb/>höet ner på rännet. Än kan ja håwa hår de knaka i da gamle saoxera när
+            <lb/>lassa for in på rännet.</p>
+            
+            <p>Fram i sluttet på sextitalet vore de nöjda å hölla på mä löshö. Då hade
+            <lb/>Arne i Skogsäng skaffat en löspress, å mä hansa hjälp så pressame ifrå
+            <lb/>hässjer. En man fick stå å mata i pressen för hann mä a tjua å sen lässtome</p>
+            
+            <p>11</p>
+            
+            <p>balera på flakvaong. En fick lägga lasset väl så att de inte kalva på hemväjen.
+            <lb/>De va slutt mä hissanet, för nu haddome en elevator. När höet äntelia va
+            <lb/>onner tak så va de keliaste arbetet igen, då skålle alla hässjera viras opp.</p>
+            
+            <p>De gick la an å skaffa grejer när tre bönner delte på köstnaden, 1971 had-
+            <lb/>dome egen press. Nöt å de första ja tok te mä ätter att pappa va dö 1975, de
+            <lb/>va å bygga en skulltörk. Håkan hade byggt sin nöt år inna, å Grönlin (Bertil
+            <lb/>Emanuelsson) byggde mä. Ätter de så sloppome ju hässja så de sparte ju
+            <lb/>in hemst mä arbete. Först bleet en liten trekantier vaong ätter pressen som
+            <lb/>samla ihop ett tjugetal baler, å när en ryckte i ett snöre så öppnas a locka
+            <lb/>där bak å på så vis låe balera i höja på stycket. De va la bra, men en fick ju
+            <lb/>liaväl lässa för hann. Vi köptom ett pär redia balvaonga å Alf på Mösen,
+            <lb/>han sålde möe maskiner å alle sla på da tia. Anna-Greta (Emanuelsson) å
+            <lb/>Maj-Britt (Johansson) stoe nästan allti å lae lass de va ju strävit för dom,
+            <lb/>men se köra traoktor de velle de rakt inte lärase te.</p>
+            
+            <p>Detta arbetet slåppede ifrå när vi fingom skaffat en hårdpress mä bal-
+            <lb/>kastare. Ve da tia så va slötteraggregatet börte sen länge, då vaet rotorbalk
+            <lb/>istället å hövännare byttes mä i flere omgånga.</p>
+            
+            <p>Allt dehäringa gick la an om väert velle va mä, men så vaet ju inte jämt.
+            <lb/>Ja håwar en gaong när vi haddom hatt swår försommertörk. När vi sloom
+            <lb/>te Håkes så va gräset så usselt på da törraste knölana så de datt ner imällom
+            <lb/>ståbben å syntes inte. Då letame opp a gammel hästriva å köpplam bakom
+            <lb/>traoktorn. Sen så körde mi söster Ann-Charlotte å stränga opp de lella där
+            <lb/>va. Iblann kånnet va på hett höllet. Då väjde löspressata baler över tjuge
+            <lb/>kilo. Håre kånne en veta om väert skålle bli bra? Jo om en hörde Espenäsa
+            <lb/>hånna skälla då kånnet bli bra vär, så då vaet ti te slö. Nu äet la vaja snart
+            <lb/>tjuge år sen vi törkam nö hö tror ja. Å de e la gött å sleppa de sletet, men
+            <lb/>vi haddom liaväl rolit!</p>
+            
+            <p>Ett aent sätt å ta vare på gräs e ju å ensilerat. I början sextitalet så va de åtta
+            <lb/>bönner som ginge ihop å köpte en slaghack å en elevator. De va Torsten på
+            <lb/>Kinnadungen, Åke Bengtsson å Swen-Adel i Yttrahjärtare, Gösta å Håkan
+            <lb/>i Övrahjärtare, Bengt Reis å Björn Kluge i Espenäs å så Henry i Lyngstek.</p>
+            
+            <p>Sen så byggdes där träsiloa i tryckimpregnerat virke på alle ställena.
+            <lb/>Den vi haddom hemma va sex meter höj å fyra i diameter. Mä järnbånn
+            <lb/>ikring. Men de va inte nåck mä de, en skålle ju ha nöt å köra gräset på. Då
+            <lb/>byggdes där näthäcka på da gamle gommihjulsvaognana. Tre vaogna gick åt.</p>
+            
+            <p>Männas en hängde bakom hacken så va den andre på väjen å den treje
+            <lb/>sto framme på gåern å ble ålässt. De gick åt sex gobba när detta gjordes, en
+            <lb/>som körde hacken, en som körde fram lass, två som lässte å, å två i silon.
+            <lb/>När ja va tolv år, tror ja de va, så va ja stoer nock te å köra fram lass. Då får</p>
+            
+            <p>12</p>
+            
+            <p>ja si att en va la rättså kärier. Håkan körde hacken, å de berodde på att han
+            <lb/>hade en stor Fordson Major. Te å börja mä så hade de för se att en kånne
+            <lb/>köra hårdet väert va, men så vaet inte riktit, de bla ju hår mö pressvann som
+            <lb/>helst om de regna, å sen blaet ju bånnfråset på vintern. Ja håwar mä håre
+            <lb/>gobbana såe ut, da bägge som ginge i silon å jämna. Da finge detta blöta
+            <lb/>gräset i huet, å på huet hade de söddadäringa Pullfor-hätter som da hade fått
+            <lb/>som reklam på Lantmanna. Blåa hätter mä blå skärm utå pressad papp. Da
+            <lb/>vore både blåa å gröna i syna när da komme ner te medda. Där va la säkert
+            <lb/>a stor bråska i köket mä, för mor skålle ju ha bå kaffe å medda te fölket.</p>
+            
+            <p>De dära pressvannet skålle ju tas vare på å köras ut på stycket igen men
+            <lb/>de gick la lite håresomhelst mä de iblann å de förekom att de läckte ut, å
+            <lb/>nön vattenbrånn blee förgeftater. En stor fördel mä ensileranet va att en
+            <lb/>kånne ta två skörda om åert, de va ju swårt om en törkat te hö. Va här riktit
+            <lb/>bra törk i augusti så kånnet”la gå å få ett tört, somma kalltet håv, om de va
+            <lb/>andreskörd.</p>
+            
+            <p>Såhär gick et te i nöra år, sen skaffa de självavlastanne vaogna, sen sparte
+            <lb/>de ju in da bägge som lässte å lass, å då räcktet mä två vaogna å fyra man.</p>
+            
+            <p>A pachasia som ja måste nämna ä hår de bar te när da hacka i Lyngstek
+            <lb/>en å da förste gaongera. När denne slaghacken va inköpt så va de den förste
+            <lb/>maskinen som va kraftuttagsdreven. Å detta vore da inte vana ve. Da hade
+            <lb/>nock sett att där va smörjeköppa på aoxelen, så där bla la säkert smort, men
+            <lb/>att en skolle dra isär aokselen å lägga i fett där mä, de hade ingen tänkt
+            <lb/>på. Rätt som de va så va aoxelen krökter å sto inte te å dra isär. Da länka
+            <lb/>fast aoxelen i körsbärsträet som sto på gåern i Lyngstek, å sen dro Håkan
+            <lb/>i den andre ännen mä Majoren. De gick inte alls bra. De enda som hände
+            <lb/>va att traoktorn slira, å barken på träet bla fördärvater så träet mötte Henry
+            <lb/>hogga ner åert ätter.</p>
+            
+            <p>De bla swonget å köpa en ny aoxel. De va säkert a stor utgeft, da finge
+            <lb/>la ta et som ett hånnabett som en brukar si.</p>
+            
+            <p>Ångefär på detta viset gick et te i maonga år, tess vi haddom sletet ut
+            <lb/>den tredje slaghacken. Då hade flere å desse bönnera blett börte. Ja kan
+            <lb/>inte minnas nöra årtal, men på åttitalet kanske, då vaet exakthacken som
+            <lb/>kom istället. Då fick en slö gräset ett pär da inna en hackat, så fick en et ju
+            <lb/>lite törrare. Sen wartet la inte så länge inna Stefan i Egnare börjte å köra
+            <lb/>börte mä råndbalspress, men de fåmmela skriva om en aen gaong när de ä
+            <lb/>bleet gammelt. Men de ä la inte vart å vänta rent för länge för här ä snart
+            <lb/>inga bönner igen!</p>
+            
+            <p>Ingemar i Hjärtare</p>
+            
+            <p>13</p>
+      </body>
+  </text>
+</TEI>
