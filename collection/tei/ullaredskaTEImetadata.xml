@@ -18,14 +18,15 @@
   </teiHeader>
   <text>
       <body>
+         <pb n="10"/>
          <head><w norm="slåtter" pos="VV">SLÖTTA</w> <w norm="i" pos="II">I</w> <placeName><w norm="Hjärtared" pos="NP1">HJÄRTARE</w></placeName> <w norm="genom" pos="II">GENOM</w> <w norm="tiderna" pos="NN2">TIERA</w>!</head>
-         <p><w norm="när" pos="RR">När</w> <w norm="jag" pos="PPIS1">ja</w> <w norm="var" pos="VBDZ">va</w> <w norm="liten" pos="JJ">liten</w> <w norm="så" pos="CS">så</w> <w norm="hade de" pos="VHD">haddome</w> <w norm="fortfarande" pos="RR">fortfarande</w> <w norm="häst" pos="NN1">häst</w> <w norm="i" pos="II">i</w> <placeName><w norm="Hjärtared" pos="NP1">Hjärtare</w></placeName>. <w norm="men" pos="CCB">Men</w> <date when="1961"><w pos="MC">1961</w></date> <w norm="så" pos="CS">så</w> <w norm="köpte" pos="VVD">köpte</w>
-            <lb/><w norm="pappa" pos="NN1">pappa</w> <w norm="den" pos="AT">den</w> <w norm="första" pos="MD">förste</w> <w norm="traktorn" pos="NN1">traoktorn</w>. <w norm="och" pos="CC">Å</w> <w norm="sedan" pos="RR">sen</w> <w norm="dröjde det" pos="VVD">sinkat”la</w> <w norm="inte" pos="XX">inte</w> <w norm="länge" pos="RR">länge</w> <w norm="innan" pos="CS">inna</w> <w norm="hästen" pos="NN1">hästen</w> <w norm="blev" pos="VVD">bla</w> <w norm="pensionär" pos="NN1">pen-
-            <lb/>sionär</w>. <w norm="den" pos="PPH1">Den</w> <w norm="som" pos="PNQS">som</w> <w norm="bara" pos="RR">bare</w> <w norm="hade" pos="VHD">hade</w> <w norm="en" pos="AT1">en</w> <w norm="häst" pos="NN1">häst</w> <w norm="fick" pos="VVD">fick</w> <w norm="nöja" pos="VVI">nöja</w> <w norm="sig" pos="PPX1">se</w> <w norm="med" pos="II">mä</w> <w norm="en" pos="AT1">en</w> <w norm="slåttermaskin" pos="NN1">slöttermaskin</w> <w norm="som" pos="PN1">som</w>
-            <lb/><w norm="tog" pos="VVD">tok</w> <w norm="fyra" pos="MC1">fyra</w> <w norm="fot" pos="NN1">fot</w>, <w norm="men" pos="CCB">men</w> <w norm="de" pos="PPHS2">da</w> <w norm="som" pos="PN">som</w> <w norm="hade" pos="VHD">hade</w> <w norm="parhästar" pos="NN2">parhästa</w> <w norm="kunde" pos="VV">kånne</w> <w norm="ha" pos="VHI">ha</w> <w norm="femfotare" pos="NN1">femfotare</w>. <w norm="jag" pos="PPIS1">Ja”</w> <w norm="kan" pos="VM">kan</w> <w norm="inte" pos="XX">inte</w>
+            <p><w norm="när" pos="RR">När</w> <w norm="jag" pos="PPIS1">ja</w> <w norm="var" pos="VBDZ">va</w> <w norm="liten" pos="JJ">liten</w> <w norm="så" pos="CS">så</w> <w norm="hade de" pos="VHD">haddome</w> <w norm="fortfarande" pos="RR">fortfarande</w> <w norm="häst" pos="NN1">häst</w> <w norm="i" pos="II">i</w> <placeName><w norm="Hjärtared" pos="NP1">Hjärtare</w></placeName>. <w norm="men" pos="CCB">Men</w> <date when="1961"><num type="cardinal">1961</num></date> <w norm="så" pos="CS">så</w> <w norm="köpte" pos="VVD">köpte</w>
+            <lb/><w norm="pappa" pos="NN1">pappa</w> <w norm="den" pos="AT">den</w> <num type="ordinal" value="1"><w norm="första" pos="MD">förste</w></num> <w norm="traktorn" pos="NN1">traoktorn</w>. <w norm="och" pos="CC">Å</w> <w norm="sedan" pos="RR">sen</w> <w norm="dröjde det" pos="VVD">sinkat”la</w> <w norm="inte" pos="XX">inte</w> <w norm="länge" pos="RR">länge</w> <w norm="innan" pos="CS">inna</w> <w norm="hästen" pos="NN1">hästen</w> <w norm="blev" pos="VVD">bla</w> <w norm="pensionär" pos="NN1">pen-
+            <lb/>sionär</w>. <w norm="den" pos="PPH1">Den</w> <w norm="som" pos="PNQS">som</w> <w norm="bara" pos="RR">bare</w> <w norm="hade" pos="VHD">hade</w> <num type="cardinal" value="1"><w norm="en" pos="MC1">en</w></num> <w norm="häst" pos="NN1">häst</w> <w norm="fick" pos="VVD">fick</w> <w norm="nöja" pos="VVI">nöja</w> <w norm="sig" pos="PPX1">se</w> <w norm="med" pos="II">mä</w> <w norm="en" pos="AT1">en</w> <w norm="slåttermaskin" pos="NN1">slöttermaskin</w> <w norm="som" pos="PN1">som</w>
+            <lb/><w norm="tog" pos="VVD">tok</w> <num type="cardinal" value="4"><w norm="fyra" pos="MC1">fyra</w></num> <w norm="fot" pos="NN1">fot</w>, <w norm="men" pos="CCB">men</w> <w norm="de" pos="PPHS2">da</w> <w norm="som" pos="PN">som</w> <w norm="hade" pos="VHD">hade</w> <w norm="parhästar" pos="NN2">parhästa</w> <w norm="kunde" pos="VV">kånne</w> <w norm="ha" pos="VHI">ha</w> <w norm="femfotare" pos="NN1">femfotare</w>. <w norm="jag" pos="PPIS1">Ja”</w> <w norm="kan" pos="VM">kan</w> <w norm="inte" pos="XX">inte</w>
             <lb/><w norm="minnas" pos="VHI">minnas</w> <w norm="att" pos="CST">att</w> <w norm="de" pos="PPHS2">da</w> <w norm="gick" pos="VVD">ginge</w> <w norm="och" pos="CC">å</w> <w norm="vände" pos="VVD">vände</w> <w norm="hö" pos="NN">hö</w> <w norm="för" pos="RR">för</w> <w norm="hand" pos="NN1">hann</w>, <w norm="men" pos="CCB">men</w> <w norm="sådant" pos="PN">söddet</w> <w norm="förekom" pos="VVD">förekom</w> <w norm="ju" pos="RR">ju</w>. <w norm="om" pos="CS">Om</w> <w norm="jag" pos="PPIS1">ja</w>
-            <lb/><w norm="minns" pos="VV0">minns</w> <w norm="rätt" pos="RR">rätt</w>, <w norm="så" pos="CS">så</w> <w norm="köpte" pos="VVD">köpte</w> <w norm="pappa" pos="NN1">pappa</w> <w norm="en" pos="AT1">en</w> <w norm="hövändare" pos="NN1">hövännare</w> <date when="1959"><w pos="MC">1959</w></date>. <w norm="det" pos="PPH1">De</w> <w norm="var" pos="VBDZ">va</w> <w norm="en" pos="AT1">en</w> <w norm="sådan där" pos="PN">söndäringa</w> <w norm="unknown" pos="NN1">sprätt</w>
-            <lb/><w norm="som" pos="PN1">som</w> <w norm="vi" pos="PPIS2">vi</w> <w norm="kallade dem" pos="VVD">kalltom”et</w> <w norm="och" pos="CC">å</w> <w norm="den" pos="PPH1">den</w> <w norm="kördes" pos="VVD">kördes</w> <w norm="ju" pos="RR">ju</w> <w norm="med" pos="II">mä</w> <w norm="hästen" pos="NN1">hästen</w> <w norm="de" pos="PN">dom</w> <w norm="första" pos="MD">förste</w> <w norm="åren" pos="NN2">åra</w>. <w norm="när" pos="RR">När</w> <w norm="traktorn" pos="NN1">traoktorn</w>
+            <lb/><w norm="minns" pos="VV0">minns</w> <w norm="rätt" pos="RR">rätt</w>, <w norm="så" pos="CS">så</w> <w norm="köpte" pos="VVD">köpte</w> <w norm="pappa" pos="NN1">pappa</w> <w norm="en" pos="AT1">en</w> <w norm="hövändare" pos="NN1">hövännare</w> <date when="1959"><num type="cardinal">1959</num></date>. <w norm="det" pos="PPH1">De</w> <w norm="var" pos="VBDZ">va</w> <w norm="en" pos="AT1">en</w> <w norm="sådan där" pos="PN">söndäringa</w> <w norm="unknown" pos="NN1">sprätt</w>
+            <lb/><w norm="som" pos="PN1">som</w> <w norm="vi" pos="PPIS2">vi</w> <w norm="kallade dem" pos="VVD">kalltom”et</w> <w norm="och" pos="CC">å</w> <w norm="den" pos="PPH1">den</w> <w norm="kördes" pos="VVD">kördes</w> <w norm="ju" pos="RR">ju</w> <w norm="med" pos="II">mä</w> <w norm="hästen" pos="NN1">hästen</w> <w norm="de" pos="PN">dom</w> <num type="ordinal" value="1"><w norm="första" pos="MD">förste</w></num> <w norm="åren" pos="NN2">åra</w>. <w norm="när" pos="RR">När</w> <w norm="traktorn" pos="NN1">traoktorn</w>
             <lb/><w norm="hade" pos="VHN">hade</w> <w norm="kommit" pos="VVN">kommet</w> <w norm="till" pos="II">te</w> <w norm="så" pos="CS">så</w> <w norm="skruvade" pos="VVD">skrua</w> <w norm="de" pos="PPHS2">da</w> <w norm="åt" pos="RR">å</w> <w norm="unknown" pos="NN">skäkera</w> <w norm="och" pos="CC">å</w> <w norm="tog" pos="VVD">tok</w> <w norm="ned" pos="RR">ner</w> <w norm="maskinen" pos="NN1">maskinen</w> <w norm="till" pos="II">te</w> <w norm="Smed-Sven" pos="NP1">sme”-Swen</w>
             <lb/>(<w norm="Sven" pos="NP1">Sven</w> <w norm="Carlsson" pos="NP1">Carlsson</w> <w norm="i" pos="II">i</w> <placeName><w norm="Ullared" pos="NP1">Ullared</w></placeName> ) <w norm="så" pos="CS">så</w> <w norm="svetsade" pos="VVD">swetsa</w> <w norm="han" pos="PPHS1">han</w> <w norm="ihop" pos="RR">ihop</w> <w norm="en" pos="AT1">a</w> <w norm="dragstång" pos="NN1">dragstång</w>.</p>
             
@@ -60,8 +61,9 @@
             <lb/>såpass stor så ja räckte ner te trövera. Å de sinka ju inte så länge inna en
             <lb/>hade gjort de när de gällde en liten Fordson Dexta.</p>
             
-            <p>10</p>
+            <p><num n="10" type="cardinal">10</num></p>
             
+         <pb n="11"/>
             <p>Nönting som ja ä tjongen te å nämna, de ä samarbetet som vi haddom
             <lb/>imällom ställena i Övrahjärtare. Däfför vorom”e gött om fölk när vi häss-
             <lb/>jam, sju, åtta personer iblann. Å då fick minsann riva gå hela tia, så da slåppe
@@ -109,8 +111,9 @@
             <lb/>Arne i Skogsäng skaffat en löspress, å mä hansa hjälp så pressame ifrå
             <lb/>hässjer. En man fick stå å mata i pressen för hann mä a tjua å sen lässtome</p>
             
-            <p>11</p>
+            <p><num n="11" type="cardinal">11</num></p>
             
+         <pb n="12"/>
             <p>balera på flakvaong. En fick lägga lasset väl så att de inte kalva på hemväjen.
             <lb/>De va slutt mä hissanet, för nu haddome en elevator. När höet äntelia va
             <lb/>onner tak så va de keliaste arbetet igen, då skålle alla hässjera viras opp.</p>
@@ -157,8 +160,9 @@
             <lb/>som körde hacken, en som körde fram lass, två som lässte å, å två i silon.
             <lb/>När ja va tolv år, tror ja de va, så va ja stoer nock te å köra fram lass. Då får</p>
             
-            <p>12</p>
+            <p><num n="12" type="cardinal">12</num></p>
             
+         <pb n="13"/>
             <p>ja si att en va la rättså kärier. Håkan körde hacken, å de berodde på att han
             <lb/>hade en stor Fordson Major. Te å börja mä så hade de för se att en kånne
             <lb/>köra hårdet väert va, men så vaet inte riktit, de bla ju hår mö pressvann som
@@ -204,7 +208,7 @@
             
             <p><w norm="Ingemar" pos="NP1">Ingemar</w> <w norm="i" pos="II">i</w> <placeName><w norm="Hjärtared" pos="NP1">Hjärtare</w></placeName></p>
             
-            <p>13</p>
+            <p><num n="13" type="cardinal">13</num></p>
       </body>
   </text>
 </TEI>
