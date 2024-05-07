@@ -4,17 +4,150 @@
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Title</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Publication Information</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Information about the source</p>
-         </sourceDesc>
-      </fileDesc>
+     <fileDesc> <!-- Describing the DIGITAL FILE that we've created and are working in -->
+        <titleStmt>
+           <title>Markup of SLÖTTA I HJÄRTARE GENOM TIERA</title> <!-- Viktigt med "markup of! Visar på denna fil ej den fysiska texten -->
+           <author>
+              <name></name>
+              <name></name>
+              <name></name>
+           </author> <!-- Frågan är om vi är författare till denna digitala version? Då detta EJ är samma sak som den bibliografiska beskrivningen-->
+           <respStmt>
+              <resp>Originally prepared by</resp> <!-- Är detta också vi?? -->
+              <name>Oss</name>
+           </respStmt>
+           <!-- <respStmt>
+              <resp>Revised and edited by</resp>
+              <name>SOMEONE WHO EDITED THE TEXT</name>
+           </respStmt>-->
+        </titleStmt>
+        <editionStmt>
+           <p>This is the first edition of this text and published for the annual booklet series "Krönika från Fagereds Pastorat" (year 2022)</p>
+        </editionStmt>
+        <extent>
+           <num>4</num>
+           <unit>pages (A5?)</unit>
+        </extent>
+        <publicationStmt>
+           <distributor>Fagereds Pastorats Hembygdsförening</distributor>
+           <address>
+              <addrLine>Brokared 335, 310 61 Ätran, Sweden</addrLine>
+           </address>
+           <availability>
+              <p>Available to read as a part of Fagereds Pastorats Hembygdsförening annual booklet "Krönika från Fagereds Pastorat 2022"</p>
+           </availability>
+           <date when="2022">2022</date>
+        </publicationStmt>
+        <sourceDesc>
+           <bibl>
+              <title>SLÖTTA I HJÄRTARE GENOM TIERA</title>
+              <author>Ingemar i Hjärtare (Johansson)</author> <!-- Få med signatur/pseudonym -->
+              <publisher>Fagereds Pastorats Hembygdsförening</publisher>
+              <pubPlace>Fagered</pubPlace> <!-- ????????? -->
+              <date>2023</date>
+           </bibl>
+           <msDesc type="chronicle">
+              <msIdentifier>
+                 <repository xml:lang="se">VAR FINNS DEN FYSISKA TEXTEN LAGRAD? Ev. uppge hembygdsföreningens adress</repository>
+                 <altIdentifier>
+                    <idno type="URI">https://www.fageredspastoratshembygdsf.se/2022.htm KOLLA UPP EVENTUELL ISBN????</idno> <!-- Denna leder till hela krönikan för det året! -->
+                    <!-- Vi kan också ha en annan typ av identifierare, har krönikan något ID??? -->
+                 </altIdentifier>
+              </msIdentifier>
+              <physDesc n="2022"> <!-- 2022 betyder i detta fall utgåvan av hela krönikan  -->
+                 <objectDesc> 
+                    <supportDesc> 
+                       <p>The pages consists of<material>paper</material>, printed in black ink, WHICH FONT???
+                          The size of the printed pages are A5 (cm x cm). </p>
+                    </supportDesc> 
+                    <layoutDesc>
+                       <p>beskriv layouten HÄR. En kolumn per sida med veriation mellan orden för att se till att varje rad slutar och börjar på samma ställe osv
+                          , förutom första och sista raden i varje stycke, "justified" enligt Open Office. 
+                          Nytt stycke börjar med indrag inte blankrad </p>
+                    </layoutDesc>
+                 </objectDesc>
+                 <typeDesc>
+                    <p>Uses an  black letter font  WHICH FONT??? Serifer! Radavstånd: ca normalt, Ca 1.0 </p>
+                 </typeDesc>
+              </physDesc> 
+           </msDesc>
+           
+           <!--<ocr>
+              <software>OCR Software Name</software>
+              <language>English</language>
+              <accuracy>95%</accuracy>
+           </ocr>-->
+           
+           <!-- FÅ IN NÅGOT HÄR OM HUR VI ANVÄNT TEX OCR OCH HUR ÖVRIG INKODNING GÅTT TILL I DIGITALA FILEN -->
+        </sourceDesc>
+     </fileDesc>
+     <encodingDesc> <!-- description of encoding practices -->
+        <projectDesc>
+           <p>XML created for describing the semantics and grammatical meaning of the text written in ullaredska </p>
+        </projectDesc>
+        <editorialDecl>
+           <normalization>
+              <p>No normalization was made since the text was supposed to reflect the original 
+                 accent in which is was written</p>
+           </normalization>          
+           <p>This electronic text file was created using optical character recognition (OCR),
+              <name type="software">Tesseract</name>.
+              No corrections have been made to the OCR-ed text and no editing has been done to the content 
+              of the original document. (87-96% säkerhet)</p>    
+           <p>EXEMPEL: Line breaks and column breaks have not been encoded, but page breaks have.</p>    
+           <p>EXEMPEL: All hyphens and quotation marks have been retained.</p>
+           <p>Word classes were encoded as blablbala in accordance with TEI Lite year blablabla</p>
+        </editorialDecl>
+     </encodingDesc>
+     <profileDesc> <!--  "search terms"????  -->
+        <!--<abstract>
+           <p>ABSTRACT GÄLLER INTE VRÅR TYP AV TEXT</p>
+        </abstract> -->
+        <creation>
+           <roleName>Translator</roleName>
+           <name>Anneli Carlström</name>
+           <date>2024</date>
+           <country>Sweden</country>
+           <region>Skåne</region>
+        </creation>
+        <creation>
+           <roleName>OCR-navigator</roleName>
+           <name>Nina Leivo</name>
+           <date>2024</date>
+           <country> Sweden</country>
+           <region>Södermanland</region>
+        </creation>
+        <creation>
+           <roleName>TEI-developer</roleName>
+           <name>Clara Delding</name>
+           <date>2024</date>
+           <country>United Kingsom</country>
+           <region>Leamington Spa</region>
+        </creation>
+        <creation>
+           <roleName>TEI-coder</roleName>
+           <name></name>
+        </creation>
+        <langUsage>
+           <language ident="sw-SE">Swedish</language>
+        </langUsage>
+        <langUsage>
+           <p>The language used in the text represents ullaredska,
+              spoken in the swedish region of Ullared,
+              and is a regional version of the swedish accent halländska</p>
+        </langUsage>
+        <calendarDesc>
+           <calendar xml:id="Gregorian">
+              <p>Gregorian calendar</p>
+           </calendar>
+        </calendarDesc>
+     </profileDesc>
+     <xenoData>
+        HÄR KAN VI FÅ IN METADATA SOM EJ ÄR I TEIFORMAT
+     </xenoData>
+     <revisionDesc> <!-- record of changes (optional). KANSKE FÅ IN NÄR VI KONVERTERADE FRÅN HÖGUPPLÖST TILL PDF??? -->
+        <change when="1991-11-11" who="#LB"> deleted chapter 10 </change> <!-- EXEMPELVIS -->
+     </revisionDesc>
   </teiHeader>
   <text>
       <body>
