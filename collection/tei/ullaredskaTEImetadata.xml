@@ -61,7 +61,7 @@
             <lb/><w norm="så pass" type="ulla">såpass</w> stor så <w norm="jag" pos="PN" type="ulla">ja</w> räckte <w norm="ned" type="ulla">ner</w> <w norm="till" type="ulla">te</w> <w norm="pedalerna" pos="NN" type="ulla">trövera</w>. <w norm="och" type="ulla">Å</w> <w norm="det" pos="PN" type="ulla">de</w> <w norm="dröjde" pos="VV" type="ulla">sinka</w> ju inte så länge <w norm="innan" type="ulla">inna</w> en
             <lb/>hade gjort <w norm="det" pos="PN" type="ulla">de</w> när <w norm="det" pos="PN" type="ulla">de</w> gällde en liten Fordson Dexta.</p>
             
-            <p><num n="10" type="cardinal">10</num></p>
+            <p><metamark function="pagenumber" place="bottom-left"><num>10</num></metamark></p>
             
          <pb n="11"/>
             <p><w norm="någonting" pos="PN" type="ulla">Nönting</w> som <w norm="jag" pos="PN" type="ulla">ja</w> <w norm="är" pos="VV" type="ulla">ä</w> <w norm="tvungen" pos="JJ" type="ulla">tjongen</w> <w norm="till" type="ulla">te</w> <w norm="att" type="ulla">å</w> nämna, <w norm="det" type="ulla">de</w> <w norm="är" pos="VV" type="ulla">ä</w> samarbetet som vi <w norm="hade" pos="VV" type="ulla">haddom</w>
@@ -94,27 +94,27 @@
             <p><w norm="och" type="ulla">Å</w> <w norm="sedan" type="ulla">sen</w> gick <w norm="det" pos="PN" type="ulla">ett</w> <w norm="väl" type="ulla">la</w> i ett enda <w norm="kör" pos="NN" type="ulla">masadra”</w>, när <w norm="det" type="ulla">de</w> sista <w norm="var" pos="VV" type="ulla">va</w> <w norm="upphängt" pos="JJ" type="ulla">opphängt</w> så fick en
             <lb/>ta <w norm="till" type="ulla">te</w> <w norm="och" type="ulla">å</w> köra in.</p>
             
-            <p>Hemma haddom vi dressinhiss, de vanliaste va ju annars släphiss. För
-            <lb/>den som inte vet wa en dressinhiss ä så får ja tala om att de ä en sorts tra-
-            <lb/>vers som går på en räls som hänger i ryggåsen. Hemma va de en träräls
-            <lb/>Sex gånger sex tåm som va beslaen mä plattjärn oppepå. En körde in lasset
-            <lb/>på loen å spännde ifrå marra, hu fick gå ut ve sia om. Sen sto där en tom
-            <lb/>vaong ute ve gavelen som en spände för. Längst bak på långvaongsträet
-            <lb/>satt a ögla å där kroka en fast vajern. När en då försiktit körde fram så åka
-            <lb/>lasset opp i taket, där klickat te å så for lasset in på rännet. De som höllde
-            <lb/>ihop höet de va ett pär vajra som låp igönom två klena träslaner som låe
-            <lb/>på flaket, å mitt onnerte satt en lås. Å när en ryckte i snöret te låsen så datt
-            <lb/>höet ner på rännet. Än kan ja håwa hår de knaka i da gamle saoxera när
-            <lb/>lassa for in på rännet.</p>
+            <p>Hemma <w norm="hade" pos="VV" type="ulla">haddom</w> vi dressinhiss, <w norm="det" type="ulla">de</w> <w norm="vanligaste" pos="JJ" type="ulla">vanliaste</w> <w norm="var" pos="VV" type="ulla">va</w> ju annars släphiss. För
+            <lb/>den som inte vet <w norm="vad" type="ulla">wa</w> en dressinhiss <w norm="är" pos="VV" type="ulla">ä</w> så får <w norm="jag" pos="PN" type="ulla">ja</w> tala om att <w norm="den" pos="PN" type="ulla">de</w> <w norm="är" pos="VV" type="ulla">ä</w> en sorts tra-
+            <lb/>vers som går på en räls som hänger i ryggåsen. Hemma <w norm="var" pos="VV" type="ulla">va</w> <w norm="det" pos="PN" type="ulla">de</w> en träräls
+            <lb/>sex gånger sex <w norm="tum" pos="NN" type="ulla">tåm</w> som <w norm="var" pos="VV" type="ulla">va</w> <w norm="beslagen" pos="VV" type="ulla">beslaen</w> <w norm="med" type="ulla">mä</w> plattjärn <w norm="ovanpå" type="ulla">oppepå</w>. En körde in lasset
+            <lb/>på <w norm="logen" pos="NN" type="ulla">loen</w> <w norm="och" type="ulla">å</w> spännde <w norm="ifrån" type="ulla">ifrå</w> <w norm="märren" pos="NN" type="ulla">marra</w>, <w norm="hon" pos="PN" type="ulla">hu</w> fick gå <w norm="ute" type="ulla">ut</w> <w norm="vid" type="ulla">ve</w> <w norm="sidan" pos="NN" type="ulla">sia</w> om. <w norm="sedan" type="ulla">Sen</w> <w norm="stod" pos="VV" type="ulla">sto</w> där en tom
+            <lb/><w norm="vagn" pos="NN" type="ulla">vaong</w> ute <w norm="vid" type="ulla">ve</w> <w norm="gaveln" pos="NN" type="ulla">gavelen</w> som en spände för. Längst bak på <w norm="långvagnsträt" pos="NN" type="ulla">långvaongsträet</w>
+            <lb/>satt <w norm="en" type="ulla">a</w> ögla <w norm="och" type="ulla">å</w> där <w norm="krokade" pos="VV" type="ulla">kroka</w> en fast vajern. När en då <w norm="försiktigt" type="ulla">försiktit</w> körde fram så <w norm="åkte" pos="VV" type="ulla">åka</w>
+            <lb/>lasset <w norm="upp" type="ulla">opp</w> i taket, där <w norm="klickade det" pos="VV" type="ulla">klickat</w> <w norm="till" type="ulla">te</w> <w norm="och" type="ulla">å</w> så for lasset in på <w norm="höskullen" pos="NN" type="ulla">rännet</w>. <w norm="den" pos="PN" type="ulla">De</w> som <w norm="höll" pos="VV" type="ulla">höllde</w>
+            <lb/>ihop höet <w norm="det" pos="PN" type="ulla">de</w> <w norm="var" pos="VV" type="ulla">va</w> ett <w norm="par" pos="NN" type="ulla">pär</w> <w norm="vajrar" pos="NN" type="ulla">vajra</w> som <w norm="löpte" pos="VV" type="ulla">låp</w> <w norm="igenom" type="ulla">igönom</w> två klena <w norm="träslanor" pos="NN" type="ulla">träslaner</w> som <w norm="låg" pos="VV" type="ulla">låe</w>
+            <lb/>på flaket, <w norm="och" type="ulla">å</w> <w norm="i mitten" type="ulla">mitt</w> <w norm="undertill" type="ulla">onnerte</w> satt en lås. <w norm="och" type="ulla">Å</w> när en ryckte i snöret <w norm="till" type="ulla">te</w> låsen så <w norm="föll" pos="VV" type="ulla">datt</w>
+            <lb/>höet <w norm="ned" type="ulla">ner</w> på <w norm="höskullen" pos="NN" type="ulla">rännet</w>. Än kan <w norm="jag" pos="PN" type="ulla">ja</w> <w norm="komma ihåg" pos="VV" type="ulla">håwa</w> <w norm="hur" type="ulla">hår</w> <w norm="det" pos="PN" type="ulla">de</w> <w norm="knakade" pos="VV" type="ulla">knaka</w> i <w norm="de" pos="PN" type="ulla">da</w> <w norm="gamla" pos="JJ" type="ulla">gamle</w> <w norm="unknown" pos="NN" type="ulla">saoxera</w> när
+            <lb/><w norm="lassen" pos="NN" type="ulla">lassa</w> for in på <w norm="höskullen" pos="NN" type="ulla">rännet</w>.</p>
             
-            <p>Fram i sluttet på sextitalet vore de nöjda å hölla på mä löshö. Då hade
-            <lb/>Arne i Skogsäng skaffat en löspress, å mä hansa hjälp så pressame ifrå
-            <lb/>hässjer. En man fick stå å mata i pressen för hann mä a tjua å sen lässtome</p>
+            <p>Fram <w norm="till" type="ulla">i</w> <w norm="slutet" pos="NN" type="ulla">sluttet</w> på <w norm="sextiotalet" type="ulla">sextitalet</w> <w norm="var" pos="VV" type="ulla">vore</w> de nöjda <w norm="att" type="ulla">å</w> <w norm="hålla" pos="VV" type="ulla">hölla</w> på <w norm="med" type="ulla">mä</w> löshö. Då hade
+            <lb/>Arne i <placeName><w pos="NP1">Skogsäng</w></placeName> skaffat en löspress, <w norm="och" type="ulla">å</w> <w norm="med" type="ulla">mä</w> <w norm="hans" pos="PN" type="ulla">hansa</w> hjälp så <w norm="pressade de" pos="VV" type="ulla">pressame</w> <w norm="ifrån" type="ulla">ifrå</w>
+            <lb/><w norm="hässjor" pos="NN" type="ulla">hässjer</w>. En man fick stå <w norm="och" type="ulla">å</w> mata i pressen för <w norm="hand" pos="NN" type="ulla">hann</w> <w norm="med" type="ulla">mä</w> <w norm="en" type="ulla">a</w> <w norm="hötjuga" pos="NN" type="ulla">tjua</w> <w norm="och" type="ulla">å</w> <w norm="sedan" type="ulla">sen</w> <w norm="läts de" pos="VV" type="ulla">lässtome</w></p>
             
-            <p><num n="11" type="cardinal">11</num></p>
+            <p><metamark function="pagenumber" place="bottom-right"><num>11</num></metamark></p>
             
          <pb n="12"/>
-            <p>balera på flakvaong. En fick lägga lasset väl så att de inte kalva på hemväjen.
+            <p><w norm="balas" type="ulla">balera</w> på <w norm="flakvagn" pos="NN" type="ulla">flakvaong</w>. En fick lägga lasset väl så att de inte kalva på hemväjen.
             <lb/>De va slutt mä hissanet, för nu haddome en elevator. När höet äntelia va
             <lb/>onner tak så va de keliaste arbetet igen, då skålle alla hässjera viras opp.</p>
             
@@ -160,7 +160,7 @@
             <lb/>som körde hacken, en som körde fram lass, två som lässte å, å två i silon.
             <lb/>När ja va tolv år, tror ja de va, så va ja stoer nock te å köra fram lass. Då får</p>
             
-            <p><num n="12" type="cardinal">12</num></p>
+            <p><metamark function="pagenumber" place="bottom-left"><num>12</num></metamark></p>
             
          <pb n="13"/>
             <p>ja si att en va la rättså kärier. Håkan körde hacken, å de berodde på att han
@@ -210,7 +210,7 @@
             
             <p>Ingemar i <placeName><w norm="Hjärtared" pos="NP1" type="ulla">Hjärtare</w></placeName></p>
             
-            <p><num n="13" type="cardinal">13</num></p>
+            <p><metamark function="pagenumber" place="bottom-right"><num>13</num></metamark></p>
       </body>
   </text>
 </TEI>
