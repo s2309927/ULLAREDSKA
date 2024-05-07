@@ -20,7 +20,7 @@
       <body>
          <pb n="10"/>
          <head><w norm="slåtter" pos="VV" type="ulla">SLÖTTA</w> <w norm="i" pos="II">I</w> <placeName><w norm="Hjärtared" pos="NP1" type="ulla">HJÄRTARE</w></placeName> <w norm="genom" pos="II">GENOM</w> <w norm="tiderna" pos="NN2" type="ulla">TIERA</w>!</head>
-         <p><w norm="när" pos="RR">När</w> <w norm="jag" pos="PPIS1" type="ulla">ja</w> <w norm="var" pos="VBDZ" type="ulla">va</w> <w norm="liten" pos="JJ">liten</w> <w norm="så" pos="CS">så</w> <w norm="hade de" pos="VHD" type="ulla">haddome</w> <w norm="fortfarande" pos="RR">fortfarande</w> <w norm="häst" pos="NN1">häst</w> <w norm="i" pos="II">i</w> <placeName><w norm="Hjärtared" pos="NP1" type="ulla">Hjärtare</w></placeName>. <w norm="men" pos="CCB">Men</w> <date when="1961"><num type="cardinal">1961</num></date> <w norm="så" pos="CS">så</w> <w norm="köpte" pos="VVD">köpte</w>
+            <p><w norm="när" pos="RR">När</w> <w norm="jag" pos="PPIS1" type="ulla">ja</w> <w norm="var" pos="VBDZ" type="ulla">va</w> <w norm="liten" pos="JJ">liten</w> <w norm="så" pos="CS">så</w> <w norm="hade de" pos="VHD" type="ulla">haddome</w> <w norm="fortfarande" pos="RR">fortfarande</w> <w norm="häst" pos="NN1">häst</w> <w norm="i" pos="II">i</w> <placeName><w norm="Hjärtared" pos="NP1" type="ulla">Hjärtare</w></placeName>. <w norm="men" pos="CCB">Men</w> <date when="1961"><num type="cardinal">1961</num></date> <w norm="så" pos="CS">så</w> <w norm="köpte" pos="VVD">köpte</w>
             <lb/><w norm="pappa" pos="NN1">pappa</w> <w norm="den" pos="AT">den</w> <num type="ordinal" value="1"><w norm="första" pos="MD" type="ulla">förste</w></num> <w norm="traktorn" pos="NN1" type="ulla">traoktorn</w>. <w norm="och" pos="CC" type="ulla">Å</w> <w norm="sedan" pos="RR" type="ulla">sen</w> <w norm="dröjde det" pos="VVD" type="ulla">sinkat”la</w> <w norm="inte" pos="XX">inte</w> <w norm="länge" pos="RR">länge</w> <w norm="innan" pos="CS" type="ulla">inna</w> <w norm="hästen" pos="NN1">hästen</w> <w norm="blev" pos="VVD" type="ulla">bla</w> <w norm="pensionär" pos="NN1">pen-
             <lb/>sionär</w>. <w norm="den" pos="PPH1">Den</w> <w norm="som" pos="PNQS">som</w> <w norm="bara" pos="RR" type="ulla">bare</w> <w norm="hade" pos="VHD">hade</w> <num type="cardinal" value="1"><w norm="en" pos="MC1">en</w></num> <w norm="häst" pos="NN1">häst</w> <w norm="fick" pos="VVD">fick</w> <w norm="nöja" pos="VVI">nöja</w> <w norm="sig" pos="PPX1" type="ulla">se</w> <w norm="med" pos="II" type="ulla">mä</w> <w norm="en" pos="AT1">en</w> <w norm="slåttermaskin" pos="NN1" type="ulla">slöttermaskin</w> <w norm="som" pos="PN1">som</w>
             <lb/><w norm="tog" pos="VVD" type="ulla">tok</w> <num type="cardinal" value="4"><w norm="fyra" pos="MC">fyra</w></num> <w norm="fot" pos="NN1">fot</w>, <w norm="men" pos="CCB">men</w> <w norm="de" pos="PPHS2" type="ulla">da</w> <w norm="som" pos="PN">som</w> <w norm="hade" pos="VHD">hade</w> <w norm="parhästar" pos="NN2" type="ulla">parhästa</w> <w norm="kunde" pos="VM" type="ulla">kånne</w> <w norm="ha" pos="VHI">ha</w> <w norm="femfotare" pos="NN1">femfotare</w>. <w norm="jag" pos="PPIS1" type="ulla">Ja”</w> <w norm="kan" pos="VM">kan</w> <w norm="inte" pos="XX">inte</w>
@@ -173,6 +173,7 @@
             <lb/>vore både blåa å gröna i syna när da komme ner te medda. Där va la säkert
             <lb/>a stor bråska i köket mä, för mor skålle ju ha bå kaffe å medda te fölket.</p>
             
+            <!-- Clara tar hand om detta stycke -->
             <p>De dära pressvannet skålle ju tas vare på å köras ut på stycket igen men
             <lb/>de gick la lite håresomhelst mä de iblann å de förekom att de läckte ut, å
             <lb/>nön vattenbrånn blee förgeftater. En stor fördel mä ensileranet va att en
@@ -197,6 +198,7 @@
             <p>De bla swonget å köpa en ny aoxel. De va säkert a stor utgeft, da finge
             <lb/>la ta et som ett hånnabett som en brukar si.</p>
             
+            <!-- Anneli tar hand om detta stycke -->
             <p>Ångefär på detta viset gick <w norm="det" pos="AT">et</w> te i maonga år, tess vi <w norm="hade de" pos="VHD">haddom</w> <w norm="slitit" pos="VVD">sletet</w>sletet ut
             <lb/>den tredje slaghacken. Då hade flere å desse <w norm="bönderna" pos="NN1">bönnera</w> blett <w norm="borta" pos="RR">börte</w>. <w norm="Jag" pos="PPIS1">Ja</w> kan
             <lb/>inte minnas nöra årtal, men på åttitalet kanske, då <w norm="var det" pos="VHD">vaet</w> exakthacken som
