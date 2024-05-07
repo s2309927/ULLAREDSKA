@@ -72,11 +72,6 @@
               </physDesc> 
            </msDesc>
            
-           <!--<ocr>
-              <software>OCR Software Name</software>
-              <language>English</language>
-              <accuracy>95%</accuracy>
-           </ocr>-->
            
            <!-- FÅ IN NÅGOT HÄR OM HUR VI ANVÄNT TEX OCR OCH HUR ÖVRIG INKODNING GÅTT TILL I DIGITALA FILEN -->
         </sourceDesc>
@@ -100,9 +95,6 @@
         </editorialDecl>
      </encodingDesc>
      <profileDesc> <!--  "search terms"????  -->
-        <!--<abstract>
-           <p>ABSTRACT GÄLLER INTE VRÅR TYP AV TEXT</p>
-        </abstract> -->
         <creation>
            <roleName>Translator</roleName>
            <name>Anneli Carlström</name>
@@ -143,7 +135,7 @@
         </calendarDesc>
      </profileDesc>
      <xenoData>
-        HÄR KAN VI FÅ IN METADATA SOM EJ ÄR I TEIFORMAT
+        HÄR KAN VI FÅ IN METADATA SOM EJ ÄR I TEIFORMAT <!-- Eventuellt ta bort??? -->
      </xenoData>
      <revisionDesc> <!-- record of changes (optional). KANSKE FÅ IN NÄR VI KONVERTERADE FRÅN HÖGUPPLÖST TILL PDF??? -->
         <change when="1991-11-11" who="#LB"> deleted chapter 10 </change> <!-- EXEMPELVIS -->
