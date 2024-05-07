@@ -199,16 +199,16 @@
             <lb/>la ta et som ett hånnabett som en brukar si.</p>
             
             <!-- Anneli tar hand om detta stycke -->
-            <p>Ångefär på detta viset gick <w norm="det" pos="AT">et</w> te i maonga år, tess vi <w norm="hade de" pos="VHD">haddom</w> <w norm="slitit" pos="VVD">sletet</w>sletet ut
-            <lb/>den tredje slaghacken. Då hade flere å desse <w norm="bönderna" pos="NN1">bönnera</w> blett <w norm="borta" pos="RR">börte</w>. <w norm="Jag" pos="PPIS1">Ja</w> kan
-            <lb/>inte minnas nöra årtal, men på åttitalet kanske, då <w norm="var det" pos="VHD">vaet</w> exakthacken som
-            <lb/>kom istället. Då fick en slö gräset ett pär da inna en hackat, så fick en <w norm="det" pos="AT">de</w> ju
-            <lb/>lite törrare. Sen <w norm="var det" pos="VHD">wartet</w> <w norm="väl" pos="RR">la</w> inte så länge inna Stefan i Egnare börjte å köra
-            <lb/>börte mä råndbalspress, men <w norm="det" pos="AT">de</w> <w norm="får man väl" pos="VHD">fåmmela</w> skriva om en aen gaong när de <w norm="är" pos="VV">ä</w>
-            <lb/>bleet gammelt. Men <w norm="det" pos="AT">de</w> <w norm="är" pos="VV">ä</w> <w norm="väl" pos="RR">la</w> inte vart <w norm="och" pos="CC">å</w> vänta rent för länge för här <w norm="är" pos="VV">ä</w> snart
-            <lb/>inga <w norm="bönder" pos="NN1">bönner</w> <w norm="kvar" pos="RR">igen</w>!</p>
+            <p><w norm="Ungefär" type="ulla">Ångefär</w> på detta viset gick <w norm="det" type="ulla">et</w> <w norm="till" type="ulla">te</w> i <w norm="många" type="ulla">maonga</w> år, <w norm="tills" type="ulla">tess</w> vi <w norm="hade" pos="VV" type="ulla">haddom</w> <w norm="slitit" pos="VVD" type="ulla">sletet</w> ut
+            <lb/>den tredje slaghacken. Då hade <w norm="flera" type="ulla">flere</w> <w norm="av" type="ulla">å</w> <w norm="dessa" type="ulla">desse</w> <w norm="bönderna" pos="NN" type="ulla">bönnera</w> blett <w norm="borta" type="ulla">börte</w>. <w norm="Jag" pos="PPIS1" type="ulla">Ja</w> kan
+            <lb/>inte minnas <w norm="några" type="ulla">nöra</w> årtal, men på åttitalet kanske, då <w norm="var det" pos="VV" type="ulla">vaet</w> exakthacken som
+            <lb/>kom istället. Då fick en <w norm="slå" pos="VV" type="ulla">slö</w> gräset ett <w norm="par" pos="NN" type="ulla">pär</w> <w norm="dagar" type="ulla">da</w> <w norm="innan" type="ulla">inna</w> <w norm="man" pos="PN" type="ulla">en</w> hackat, så fick <w norm="man" pos="PN" type="ulla">en</w> <w norm="det" type="ulla">de</w> ju
+            <lb/>lite <w norm="torrare" pos="JJ" type="ulla">törrare</w>. Sen <w norm="var det" pos="VV" type="ulla">wartet</w> <w norm="väl" type="ulla">la</w> inte så länge <w norm="innan" type="ulla">inna</w> Stefan i <w norm="Egnared" pos="NP1" type="ulla">Egnare</w> <w norm="började" pos="VV" type="ulla">börjte</w> <w norm="att" type="ulla">å</w> köra
+            <lb/><w norm="började" pos="VV" type="ulla">börte</w> <w norm="med" type="ulla">mä</w> <w norm="rundbalspress" pos="NN" type="ulla">råndbalspress</w>, men <w norm="det" type="ulla">de</w> <w norm="får man väl" pos="VV" type="ulla">fåmmela</w> skriva om en aen gaong när de <w norm="är" pos="VV" type="ulla">ä</w>
+            <lb/>bleet gammelt. Men <w norm="det" pos="PN" type="ulla">de</w> <w norm="är" pos="VV" type="ulla">ä</w> <w norm="väl" type="ulla">la</w> inte <w norm="värt" type="ulla">vart</w> <w norm="och" type="ulla">å</w> vänta rent för länge för här <w norm="är" pos="VV" type="ulla">ä</w> snart
+            <lb/>inga <w norm="bönder" pos="NN" type="ulla">bönner</w> <w norm="kvar" type="ulla">igen</w>!</p>
             
-            <p>Ingemar i <placeName><w norm="Hjärtared" pos="NP1">Hjärtare</w></placeName></p>
+            <p>Ingemar i <placeName><w norm="Hjärtared" pos="NP1" type="ulla">Hjärtare</w></placeName></p>
             
             <p><num n="13" type="cardinal">13</num></p>
       </body>
