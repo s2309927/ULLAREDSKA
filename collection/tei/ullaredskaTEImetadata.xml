@@ -183,8 +183,8 @@
             
             <p>Såhär gick et te i nöra år, sen skaffa de självavlastanne vaogna, sen sparte
             <lb/>de ju in da bägge som lässte å lass, å då räcktet mä två vaogna å fyra man.</p>
-            
-            <p>A pachasia som ja måste nämna ä hår de bar te när da hacka i Lyngstek
+           <!-- Annelis stycken --> 
+            <p><w norm="En" type="ulla">A</w> <w norm="unknown" type="ulla">pachasia</w> som <w norm="jag" pos="PN" type="ulla">ja</w> måste nämna <w norm="är" pos="VV" type="ulla">ä</w>ä <w norm="hur" type="ulla">hår</w> de bar te när da hacka i Lyngstek
             <lb/>en å da förste gaongera. När denne slaghacken va inköpt så va de den förste
             <lb/>maskinen som va kraftuttagsdreven. Å detta vore da inte vana ve. Da hade
             <lb/>nock sett att där va smörjeköppa på aoxelen, så där bla la säkert smort, men
@@ -195,7 +195,7 @@
             <lb/>va att traoktorn slira, å barken på träet bla fördärvater så träet mötte Henry
             <lb/>hogga ner åert ätter.</p>
             
-         <!-- Annelis stycken -->
+         
             <p><w norm="Det" pos="PN" type="ulla">De</w> <w norm="blev" pos="VV" type="ulla">bla</w> <w norm="tvunget" pos="JJ" type="ulla">swonget</w> <w norm="och" type="ulla">å</w> köpa en ny <w norm="axel" pos="NN" type="ulla">aoxel</w>. <w norm="Det" pos="PN" type="ulla">De</w> <w norm="var" type="ulla">va</w> säkert <w norm="en" type="ulla">a</w> stor <w norm="utgift" pos="NN" type="ulla">utgeft</w>, <w norm="du" pos="PN" type="ulla">da</w> <w norm="fick" pos="VV" type="ulla">finge</w>
             <lb/><w norm="väl" type="ulla">la</w> ta <w norm="det" pos="PN" type="ulla">et</w> som ett <w norm="hundbett" pos="NN" type="ulla">hånnabett</w> som <w norm="man" pos="PN" type="ulla">en</w> brukar <w norm="säga" pos="VV" type="ulla">si</w>.</p>
             
