@@ -4,7 +4,7 @@
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-     <fileDesc> <!-- Describing the DIGITAL FILE that we've created and are working in -->
+     <fileDesc> <!-- Describing the DIGITAL FILE that we've created and are working in-->
         <titleStmt>
            <title>Markup of SLÖTTA I HJÄRTARE GENOM TIERA</title> <!-- Viktigt med "markup of! Visar på denna fil ej den fysiska texten -->
            <author>
