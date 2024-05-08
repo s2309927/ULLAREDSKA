@@ -270,20 +270,20 @@
             <lb/><num value="20" type="cardinal"><w norm="tjugo" pos="MC" type="ulla">tjuge</w></num> år <w norm="sedan" type="ulla">sen</w> vi <w norm="torkade" pos="VV" type="ulla">törkam</w> <w norm="någon" pos="PN" type="ulla">nö</w> hö tror <w norm="jag" pos="PN" type="ulla">ja</w>. <w norm="och" type="ulla">Å</w> <w norm="det" pos="PN" type="ulla">de</w> <w norm="är" pos="VV" type="ulla">e</w> <w norm="väl" type="ulla">la</w> <w norm="gott" pos="JJ" type="ulla">gött</w> <w norm="att" type="ulla">å</w> <w norm="slippa" pos="VV" type="ulla">sleppa</w> <w norm="det" pos="PN" type="ulla">de</w> sletet, men
             <lb/>vi <w norm="hade" pos="VV" type="ulla">haddom</w> <w norm="ändå" type="ulla">liaväl</w> <w norm="roligt" pos="JJ" type="ulla">rolit</w>!</p>
             
-            <p>Ett aent sätt å ta vare på gräs e ju å ensilerat. I början sextitalet så va de åtta
-            <lb/>bönner som ginge ihop å köpte en slaghack å en elevator. De va Torsten på
-            <lb/>Kinnadungen, Åke Bengtsson å Swen-Adel i Yttrahjärtare, Gösta å Håkan
-            <lb/>i Övrahjärtare, Bengt Reis å Björn Kluge i Espenäs å så Henry i Lyngstek.</p>
+            <p>Ett <w norm="annat" type="ulla">aent</w> sätt <w norm="att" type="ulla">å</w> ta <w norm="vara" type="ulla">vare</w> på gräs <w norm="är" pos="VV" type="ulla">e</w> ju <w norm="att" type="ulla">å</w> <w norm="ensilera det" pos="VV" type="ulla">ensilerat</w>. I början <date from="1960" to="1969"><w norm="sextiotalet" pos="NN" type="ulla">sextitalet</w></date> så <w norm="var" pos="VV" type="ulla">va</w> <w norm="det" pos="PN" type="ulla">de</w> åtta
+            <lb/><w norm="bönder" pos="NN" type="ulla">bönner</w> som <w norm="gick" pos="VV" type="ulla">ginge</w> ihop <w norm="och" type="ulla">å</w> köpte en <w norm="slaghack" pos="NN">slaghack</w> <w norm="och" type="ulla">å</w> en <w norm="hiss" pos="NN" type="ulla">elevator</w>. <w norm="det" pos="PN" type="ulla">De</w> <w norm="var" pos="VV" type="ulla">va</w> Torsten på
+            <lb/><placeName><w pos="NP1">Kinnadungen</w></placeName>, Åke Bengtsson <w norm="och" type="ulla">å</w> <w norm="Sven-Adel" pos="NP1" type="ulla">Swen-Adel</w> i <placeName><w norm="Yttre Hjärtared" pos="NP1" type="ulla">Yttrahjärtare</w></placeName>, Gösta <w norm="och" type="ulla">å</w> Håkan
+            <lb/>i <placeName><w norm="Övre Hjärtared" pos="NP1" type="ulla">Övrahjärtare</w></placeName>, Bengt Reis <w norm="och" type="ulla">å</w> Björn Kluge i <placeName><w pos="NP1">Espenäs</w></placeName> <w norm="och" type="ulla">å</w> så Henry i <placeName><w pos="NP1">Lyngstek</w></placeName>.</p>
             
-            <p>Sen så byggdes där träsiloa i tryckimpregnerat virke på alle ställena.
-            <lb/>Den vi haddom hemma va sex meter höj å fyra i diameter. Mä järnbånn
-            <lb/>ikring. Men de va inte nåck mä de, en skålle ju ha nöt å köra gräset på. Då
-            <lb/>byggdes där näthäcka på da gamle gommihjulsvaognana. Tre vaogna gick åt.</p>
+            <p><w norm="sedan" type="ulla">Sen</w> så byggdes där <w norm="träsilos" pos="NN" type="ulla">träsiloa</w> i tryckimpregnerat virke på <w norm="alla" type="ulla">alle</w> ställena.
+            <lb/>Den vi <w norm="hade" pos="VV" type="ulla">haddom</w> hemma <w norm="var" pos="VV" type="ulla">va</w> sex meter <w norm="hög" pos="JJ" type="ulla">höj</w> <w norm="och" type="ulla">å</w> fyra i diameter. <w norm="med" type="ulla">Mä</w> <w norm="järnband" pos="NN" type="ulla">järnbånn</w>
+            <lb/><w norm="omkring" type="ulla">ikring</w>. Men <w norm="det" pos="PN" type="ulla">de</w> <w norm="var" pos="VV" type="ulla">va</w> inte <w norm="nog" type="ulla">nåck</w> <w norm="med" type="ulla">mä</w> <w norm="det" pos="PN" type="ulla">de</w>, en <w norm="skulle" pos="VV" type="ulla">skålle</w> ju ha <w norm="något" pos="PN" type="ulla">nöt</w> <w norm="att" type="ulla">å</w> köra gräset på. Då
+            <lb/>byggdes där <w norm="nätgaller" pos="NN" type="ulla">näthäcka</w> på <w norm="de" type="ulla">da</w> <w norm="gamla" pos="JJ" type="ulla">gamle</w> <w norm="gummihjulsvagnarna" pos="NN" type="ulla">gommihjulsvaognana</w>. Tre <w norm="vagnar" pos="NN" type="ulla">vaogna</w> gick åt.</p>
             
-            <p>Männas en hängde bakom hacken så va den andre på väjen å den treje
-            <lb/>sto framme på gåern å ble ålässt. De gick åt sex gobba när detta gjordes, en
-            <lb/>som körde hacken, en som körde fram lass, två som lässte å, å två i silon.
-            <lb/>När ja va tolv år, tror ja de va, så va ja stoer nock te å köra fram lass. Då får</p>
+            <p><w norm="medan" type="ulla">Männas</w> en hängde bakom <rs key="hay"><w pos="NN">hacken</w></rs> så <w norm="var" pos="VV" type="ulla">va</w> den <num type="ordinal" value="2"><w norm="andra" pos="MD" type="ulla">andre</w></num> på <w norm="vägen" pos="NN" type="ulla">väjen</w> <w norm="och" type="ulla">å</w> den <num type="ordinal" value="3"><w norm="tredje" pos="MD" type="ulla">treje</w></num>
+            <lb/><w norm="stod" pos="VV" type="ulla">sto</w> framme på <w norm="gården" pos="NN" type="ulla">gåern</w> <w norm="och" type="ulla">å</w> <w norm="blev" pos="VV" type="ulla">ble</w> <w norm="avlastad" pos="JJ" type="ulla">ålässt</w>. <w norm="det" pos="PN" type="ulla">De</w> gick åt sex <w norm="gubbar" pos="NN" type="ulla">gobba</w> när detta gjordes, en
+            <lb/>som körde <w norm="slaghacken" pos="NN" type="ulla">hacken</w>, en som körde fram lass, två som <w norm="lastade" pos="VV" type="ulla">lässte</w> <w norm="av" type="ulla">å</w>, <w norm="och" type="ulla">å</w> två i silon.
+            <lb/>När <w norm="jag" pos="PN" type="ulla">ja</w> <w norm="var" pos="VV" type="ulla">va</w> tolv år, tror <w norm="jag" pos="PN" type="ulla">ja</w> <w norm="det" pos="PN" type="ulla">de</w> <w norm="var" pos="VV" type="ulla">va</w>, så <w norm="var" pos="VV" type="ulla">va</w> <w norm="jag" pos="PN" type="ulla">ja</w> <w norm="stor" pos="JJ" type="ulla">stoer</w> <w norm="nog" type="ulla">nock</w> <w norm="till" type="ulla">te</w> <w norm="att" type="ulla">å</w> köra fram lass. Då får</p>
             
             <p><metamark function="pagenumber" place="bottom-left"><num>12</num></metamark></p>
             
@@ -305,6 +305,7 @@
             <lb/>kånne ta två skörda om åert, de va ju swårt om en törkat te hö. Va här riktit
             <lb/>bra törk i augusti så kånnet”la gå å få ett tört, somma kalltet håv, om de va
             <lb/>andreskörd.</p>
+         
             <!-- Annelis stycken --> 
             <p>Såhär gick <w norm="det" pos="PN" type="ulla">et</w> <w norm="till" type="ulla">te</w> i <w norm="några" type="ulla">nöra</w> år, sen <w norm="skaffade" pos="VV" type="ulla">skaffa</w> de <w norm="självavlastande" pos="JJ" type="ulla">självavlastanne</w> <w norm="vagnar" pos="NN" type="ulla">vaogna</w>, sen <w norm="sparade" pos="VV" type="ulla">sparte</w>
             <lb/>de ju in <w norm="de" pos="PN" type="ulla">da</w> <w norm="båda" pos="PN" type="ulla">bägge</w> som <w norm="unknown" pos="VV" type="ulla">lässte</w> <w norm="och" type="ulla">å</w> <w norm="unknown" pos="VV" type="ulla">lass</w>, <w norm="och" type="ulla">å</w> då <w norm="räckte det" pos="VV" type="ulla">räcktet</w> <w norm="med" type="ulla">mä</w> två <w norm="vagnar" pos="NN" type="ulla">vaogna</w> <w norm="och" type="ulla">å</w> fyra man.</p>
