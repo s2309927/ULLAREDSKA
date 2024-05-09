@@ -238,7 +238,7 @@
             
             <p><metamark function="pagenumber" place="bottom-right"><num>11</num></metamark></p>
             
-         <pb n="12"/><!-- Nina: continue with checking every character-->
+         <pb n="12"/>
             <p><w norm="balas" type="ulla">balera</w> på <w norm="flakvagn" pos="NN" type="ulla">flakvaong</w>. En fick lägga lasset väl så att <w norm="den" pos="PN" type="ulla">de</w> inte <w norm="föll" pos="VV" type="ulla">kalva</w> på <w norm="hemvägen" pos="NN" type="ulla">hemväjen</w>.
             <lb/><w norm="det" pos="PN" type="ulla">De</w> <w norm="var" pos="VV" type="ulla">va</w> <w norm="slut" type="ulla">slutt</w> <w norm="med" type="ulla">mä</w> <w norm="hissandet" pos="VV" type="ulla">hissanet</w>, för nu <w norm="hade de" pos="VV" type="ulla">haddome</w> en <w norm="hiss" pos="NN" type="ulla">elevator</w>. När höet <w norm="äntligen" type="ulla">äntelia</w> <w norm="var" pos="VV" type="ulla">va</w>
             <lb/><w norm="under" type="ulla">onner</w> tak så <w norm="var" pos="VV" type="ulla">va</w> <w norm="det" pos="PN" type="ulla">de</w> <w norm="tråkigaste" pos="JJ" type="ulla">keliaste</w> arbetet <w norm="kvar" type="ulla">igen</w>, då <w norm="skulle" pos="VV" type="ulla">skålle</w> alla <w norm="hässjorna" pos="NN" type="ulla">hässjera</w> viras <w norm="upp" type="ulla">opp</w>.</p>
@@ -287,7 +287,7 @@
             
             <p><metamark function="pagenumber" place="bottom-left"><num>12</num></metamark></p>
             
-         <pb n="13"/>
+         <pb n="13"/><!-- Nina: continue with checking every character-->
             <p><w norm="jag" pos="PN" type="ulla">ja</w> <w norm="säga" type="ulla">si</w> att en <w norm="var" pos="VV" type="ulla">va</w> <w norm="väl" type="ulla">la</w> <w norm="rätt så" type="ulla">rättså</w> <w norm="kaxig" pos="JJ" type="ulla">kärier</w>. Håkan körde <w norm="slaghacken" pos="NN" type="ulla">hacken</w>, <w norm="och" type="ulla">å</w> <w norm="det" pos="PN" type="ulla">de</w> berodde på att han
             <lb/>hade en stor Fordson Major. <w norm="till" type="ulla">Te</w> <w norm="och" type="ulla">å</w> börja <w norm="med" type="ulla">mä</w> så hade <w norm="den" pos="PN" type="ulla">de</w> för <w norm="sig" pos="PN" type="ulla">se</w> att en <w norm="kunde" pos="VV" type="ulla">kånne</w>
             <lb/>köra <w norm="hur än" type="ulla">hårdet</w> <w norm="vädret" pos="NN" type="ulla">väert</w> <w norm="var" pos="VV" type="ulla">va</w>, men så <w norm="var det" pos="VV" type="ulla">vaet</w> inte <w norm="riktigt" type="ulla">riktit</w>, <w norm="det" pos="PN" type="ulla">de</w> <w norm="blev" pos="VV" type="ulla">bla</w> ju <w norm="hur" type="ulla">hår</w> <w norm="mycket" type="ulla">mö</w> <w norm="pressvatten" pos="NN" type="ulla">pressvann</w> som
