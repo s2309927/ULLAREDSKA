@@ -188,9 +188,9 @@
             
             <p><metamark function="pagenumber" place="bottom-left"><num>10</num></metamark></p>
             
-         <pb n="11"/><!-- Nina: continue with checking every character-->
+         <pb n="11"/>
             <p><w norm="någonting" pos="PN" type="ulla">Nönting</w> som <w norm="jag" pos="PN" type="ulla">ja</w> <w norm="är" pos="VV" type="ulla">ä</w> <w norm="tvungen" pos="JJ" type="ulla">tjongen</w> <w norm="till" type="ulla">te</w> <w norm="att" type="ulla">å</w> nämna, <w norm="det" type="ulla">de</w> <w norm="är" pos="VV" type="ulla">ä</w> samarbetet som vi <w norm="hade" pos="VV" type="ulla">haddom</w>
-            <lb/><w norm="emellan" type="ulla">imällom</w> ställena i <placeName><w norm="Övre Hjärtared" pos="NP1" type="ulla">Övrahjärtare</w></placeName>. <w norm="därför" type="ulla">Däfför</w> <w norm="vore det" pos="VV" type="ulla">vorom”e</w> <w norm="gott" type="ulla">gött</w> om <w norm="folk" pos="NN" type="ulla">fölk</w> när vi <w norm="hässjade" pos="VV" type="ulla">häss-
+            <lb/><w norm="emellan" type="ulla">imällom</w> ställena i <placeName><w norm="Övre Hjärtared" pos="NP1" type="ulla">Övrahjärtare</w></placeName>. <w norm="därför" type="ulla">Däfför</w> <w norm="vore det" pos="VV" type="ulla">vorom'e</w> <w norm="gott" type="ulla">gött</w> om <w norm="folk" pos="NN" type="ulla">fölk</w> när vi <w norm="hässjade" pos="VV" type="ulla">häss-
             <lb/>jam</w>, sju, åtta personer <w norm="ibland" type="ulla">iblann</w>. <w norm="och" type="ulla">Å</w> då fick minsann <w norm="harven" pos="NN" type="ulla">riva</w> gå hela <w norm="tiden" pos="NN" type="ulla">tia</w>, så <w norm="de" pos="PN" type="ulla">da</w> <w norm="slapp" pos="VV" type="ulla">slåppe</w>
             <lb/><w norm="att" type="ulla">å</w> stå <w norm="och" type="ulla">å</w> luta <w norm="sig" pos="PN" type="ulla">se</w> <w norm="emot" type="ulla">imot</w> <w norm="tjugeskaftet" pos="NN" type="ulla">tjueskaftet</w>. Anders (Emanuelsson) han tyckte att <w norm="jag" pos="PN" type="ulla">ja</w> <w norm="var" pos="VV" type="ulla">va</w>
             <lb/>lite väl <w norm="ivrig" pos="JJ" type="ulla">grisker</w> <w norm="ibland" type="ulla">iblann</w>, så <w norm="det" pos="PN" type="ulla">de</w> <w norm="var" pos="VV" type="ulla">va</w> <w norm="nog" type="ulla">nock</w> bäst <w norm="att" type="ulla">å</w> <w norm="hoppa" pos="VV" type="ulla">höppa</w> <w norm="undan" type="ulla">ånna</w> när <w norm="jag" pos="PN" type="ulla">ja</w> kom <w norm="farande" type="ulla">färane</w>,
@@ -216,7 +216,7 @@
             <lb/><w norm="kunde" pos="VV" type="ulla">kånne</w> bli <w norm="rätt så" type="ulla">rättså</w> <w norm="gott" type="ulla">gött</w> om <w norm="folk" pos="NN" type="ulla">fölk</w> i <w norm="hennes" pos="PN" type="ulla">henna</w> <w norm="trädgård" pos="NN" type="ulla">trägårn</w> när <w norm="alla" pos="PN" type="ulla">alle</w> <w norm="gubbar" pos="NN" type="ulla">gobba</w>, <w norm="kvinnor" pos="NN" type="ulla">fruntimmer</w> <w norm="och" type="ulla">å</w>
             <lb/><w norm="ungar" pos="NN" type="ulla">onga</w> <w norm="kom" pos="VV" type="ulla">komme</w> <w norm="tillsammans" type="ulla">ihop</w>.</p>
             
-            <p><w norm="och" type="ulla">Å</w> <w norm="sedan" type="ulla">sen</w> gick <w norm="det" pos="PN" type="ulla">ett</w> <w norm="väl" type="ulla">la</w> i ett enda <w norm="kör" pos="NN" type="ulla">masadra”</w>, när <w norm="det" type="ulla">de</w> sista <w norm="var" pos="VV" type="ulla">va</w> <w norm="upphängt" pos="JJ" type="ulla">opphängt</w> så fick en
+            <p><w norm="och" type="ulla">Å</w> <w norm="sedan" type="ulla">sen</w> gick <w norm="det" pos="PN" type="ulla">ett</w> <w norm="väl" type="ulla">la</w> i ett enda <w norm="kör" pos="NN" type="ulla">masadra'</w>, när <w norm="det" type="ulla">de</w> sista <w norm="var" pos="VV" type="ulla">va</w> <w norm="upphängt" pos="JJ" type="ulla">opphängt</w> så fick en
             <lb/>ta <w norm="till" type="ulla">te</w> <w norm="och" type="ulla">å</w> köra in.</p>
             
             <p>Hemma <w norm="hade" pos="VV" type="ulla">haddom</w> vi dressinhiss, <w norm="det" type="ulla">de</w> <w norm="vanligaste" pos="JJ" type="ulla">vanliaste</w> <w norm="var" pos="VV" type="ulla">va</w> ju annars släphiss. För
@@ -238,7 +238,7 @@
             
             <p><metamark function="pagenumber" place="bottom-right"><num>11</num></metamark></p>
             
-         <pb n="12"/>
+         <pb n="12"/><!-- Nina: continue with checking every character-->
             <p><w norm="balas" type="ulla">balera</w> på <w norm="flakvagn" pos="NN" type="ulla">flakvaong</w>. En fick lägga lasset väl så att <w norm="den" pos="PN" type="ulla">de</w> inte <w norm="föll" pos="VV" type="ulla">kalva</w> på <w norm="hemvägen" pos="NN" type="ulla">hemväjen</w>.
             <lb/><w norm="det" pos="PN" type="ulla">De</w> <w norm="var" pos="VV" type="ulla">va</w> <w norm="slut" type="ulla">slutt</w> <w norm="med" type="ulla">mä</w> <w norm="hissandet" pos="VV" type="ulla">hissanet</w>, för nu <w norm="hade de" pos="VV" type="ulla">haddome</w> en <w norm="hiss" pos="NN" type="ulla">elevator</w>. När höet <w norm="äntligen" type="ulla">äntelia</w> <w norm="var" pos="VV" type="ulla">va</w>
             <lb/><w norm="under" type="ulla">onner</w> tak så <w norm="var" pos="VV" type="ulla">va</w> <w norm="det" pos="PN" type="ulla">de</w> <w norm="tråkigaste" pos="JJ" type="ulla">keliaste</w> arbetet <w norm="kvar" type="ulla">igen</w>, då <w norm="skulle" pos="VV" type="ulla">skålle</w> alla <w norm="hässjorna" pos="NN" type="ulla">hässjera</w> viras <w norm="upp" type="ulla">opp</w>.</p>
