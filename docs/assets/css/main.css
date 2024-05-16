@@ -76,6 +76,12 @@ footer {
     width: 100px;
 }
 
+.omslag {
+    margin: 5px;
+    border: 1px solid black;
+    width: 200px;
+}
+
 .img-full {
     margin: 5px;
     border: 1px solid black;
