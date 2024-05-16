@@ -82,6 +82,17 @@ footer {
     width: 200px;
 }
 
+.bottom-left {
+    float: left;
+    position:absolute;
+    left:-10px;
+}
+.bottom-right {
+    float: right;
+    position:relative;
+    right:10px;
+}
+
 .img-full {
     margin: 5px;
     border: 1px solid black;
