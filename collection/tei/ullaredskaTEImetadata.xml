@@ -8,13 +8,11 @@
         <titleStmt>
            <title>Markup of SLÖTTA I HJÄRTARE GENOM TIERA</title> <!-- Viktigt med "markup of! Visar på denna fil ej den fysiska texten -->
            <author>
-              <name></name>
-              <name></name>
-              <name></name>
-           </author> <!-- Frågan är om vi är författare till denna digitala version? Då detta EJ är samma sak som den bibliografiska beskrivningen-->
+              <name>Ingemar i Hjärtare (Johansson)</name>
+           </author>
            <respStmt>
-              <resp>Originally prepared by</resp> <!-- Är detta också vi?? -->
-              <name>Oss</name>
+              <resp>Originally printed by</resp>
+              <name>Fagereds Pastorats Hembygdsförening</name>
            </respStmt>
            <!-- <respStmt>
               <resp>Revised and edited by</resp>
@@ -26,7 +24,7 @@
         </editionStmt>
         <extent>
            <num>4</num>
-           <unit>pages (A5?)</unit>
+           <unit>pages A5</unit>
         </extent>
         <publicationStmt>
            <distributor>Fagereds Pastorats Hembygdsförening</distributor>
@@ -41,33 +39,34 @@
         <sourceDesc>
            <bibl>
               <title>SLÖTTA I HJÄRTARE GENOM TIERA</title>
-              <author>Ingemar i Hjärtare (Johansson)</author> <!-- Få med signatur/pseudonym -->
+              <author>Ingemar i Hjärtare (Johansson)</author>
               <publisher>Fagereds Pastorats Hembygdsförening</publisher>
-              <pubPlace>Fagered</pubPlace> <!-- ????????? -->
+              <pubPlace>Fagered</pubPlace>
               <date>2023</date>
            </bibl>
            <msDesc type="chronicle">
               <msIdentifier>
-                 <repository xml:lang="se">VAR FINNS DEN FYSISKA TEXTEN LAGRAD? Ev. uppge hembygdsföreningens adress</repository>
+                 <repository xml:lang="se">Fagereds Pastorats Hembygdsförening</repository>
                  <altIdentifier>
-                    <idno type="URI">https://www.fageredspastoratshembygdsf.se/2022.htm KOLLA UPP EVENTUELL ISBN????</idno> <!-- Denna leder till hela krönikan för det året! -->
-                    <!-- Vi kan också ha en annan typ av identifierare, har krönikan något ID??? -->
+                    <idno type="URI">https://www.fageredspastoratshembygdsf.se/2022.htm</idno> <!-- Denna leder till hela krönikan för det året! -->
                  </altIdentifier>
               </msIdentifier>
               <physDesc n="2022"> <!-- 2022 betyder i detta fall utgåvan av hela krönikan  -->
                  <objectDesc> 
                     <supportDesc> 
-                       <p>The pages consists of<material>paper</material>, printed in black ink, WHICH FONT???
-                          The size of the printed pages are A5 (cm x cm). </p>
+                       <p>The pages consists of<material>paper</material>, printed in black ink. The main text uses 
+                          a serif font, similar looking to Times New Roman. The heading or title of the text is printed 
+                          in a sans-serif font. The text uses indent on the first row of each new paragraph. 
+                          The size of the printed pages are A5 (cm x cm) and the text totals four (4) pages and no images. </p>
                     </supportDesc> 
                     <layoutDesc>
-                       <p>beskriv layouten HÄR. En kolumn per sida med veriation mellan orden för att se till att varje rad slutar och börjar på samma ställe osv
-                          , förutom första och sista raden i varje stycke, "justified" enligt Open Office. 
-                          Nytt stycke börjar med indrag inte blankrad </p>
+                       <p>The layout consists of one column of text per page which spans over the majority of the page, except some 
+                          margins around the page. The text is justified, so that each row ends in the same place. New paragraphs are 
+                          indicated by an indent at the start of the first row of the new paragraph.</p>
                     </layoutDesc>
                  </objectDesc>
                  <typeDesc>
-                    <p>Uses an  black letter font  WHICH FONT??? Serifer! Radavstånd: ca normalt, Ca 1.0 </p>
+                    <p>Uses an  black letter serif font. Row spacing is normal, approximately 1.0 </p>
                  </typeDesc>
               </physDesc> 
            </msDesc>
@@ -83,28 +82,28 @@
      </fileDesc>
      <encodingDesc> <!-- description of encoding practices -->
         <projectDesc>
-           <p>XML created for describing the semantics and grammatical meaning of the text written in ullaredska </p>
+           <p>XML created for describing the semantics and grammatical meaning of the text written in ullaredska.
+           The aim was to mark up the dialectical words and with TEI provide the "normalised" (standard swedish)
+            word that corresponds with each dialectical one. Further markup aimed to describe the structure of the text,
+           focusing on paragraphs, linebreaks etc. The project as a whole was created as a part of the course 
+           Digitalisering För Bevarande Och Tillgänglighet at the University of Borås as a part of the masterprogram for 
+           Library and Information Science. The course took place in the spring semester of year 2024.</p>
         </projectDesc>
         <editorialDecl>
            <normalization>
               <p>No normalization was made since the text was supposed to reflect the original 
-                 accent in which is was written</p>
+                 accent in which is was written. Normalisation only happened in the markup, not in the text itself.</p>
            </normalization>          
            <p>This electronic text file was created using optical character recognition (OCR),
               <name type="software">Tesseract</name>.
               No corrections have been made to the OCR-ed text and no editing has been done to the content 
-              of the original document. (87-96% säkerhet)</p>    
-           <p>EXEMPEL: Line breaks and column breaks have not been encoded, but page breaks have.</p>    
-           <p>EXEMPEL: All hyphens and quotation marks have been retained.</p>
-           <p>Word classes were encoded as blablbala in accordance with TEI Lite year blablabla</p>
+              of the original document. Tesseract estimated an accuracy of between 87 and 96 percent (%).</p>
         </editorialDecl>
      </encodingDesc>
-     <profileDesc> <!--  "search terms"????  -->
-
+     <profileDesc> <!--    -->
         <!--<abstract>
            <p>ABSTRACT GÄLLER INTE VRÅR TYP AV TEXT</p>
         </abstract> -->
-
         <creation>
            <roleName>Translator</roleName>
            <name>Anneli Carlström</name>
@@ -126,10 +125,12 @@
            <country>United Kingdom</country>
            <region>Leamington Spa</region>
         </creation>
-        <creation>
-           <roleName>TEI-coder</roleName>
-           <name></name>
-        </creation>
+        <textClass>
+           <keywords>
+              <term>Chronicle</term>
+              <term>Historical nonfiction</term>
+           </keywords>
+        </textClass>
         <langUsage>
            <language ident="sw-SE">Swedish</language>
         </langUsage>
@@ -144,12 +145,12 @@
            </calendar>
         </calendarDesc>
      </profileDesc>
-     <xenoData>
-        HÄR KAN VI FÅ IN METADATA SOM EJ ÄR I TEIFORMAT <!-- Eventuellt ta bort??? -->
-     </xenoData>
-     <revisionDesc> <!-- record of changes (optional). KANSKE FÅ IN NÄR VI KONVERTERADE FRÅN HÖGUPPLÖST TILL PDF??? -->
-        <change when="1991-11-11" who="#LB"> deleted chapter 10 </change> <!-- EXEMPELVIS -->
-     </revisionDesc>
+     <!--<xenoData>
+         HÄR KAN VI FÅ IN METADATA SOM EJ ÄR I TEIFORMAT. Eventuellt ta bort??? 
+     </xenoData> -->
+     <!--<revisionDesc>  record of changes (optional). KANSKE FÅ IN NÄR VI KONVERTERADE FRÅN HÖGUPPLÖST TILL PDF???
+        <change when="1991-11-11" who="#LB"> deleted chapter 10 </change> EXEMPELVIS
+     </revisionDesc> -->
   </teiHeader>
   <text>
       <body>
