@@ -12,7 +12,7 @@
                 <title>
                     <!-- add the title from the metadata. This is what will be shown
                     on your browsers tab-->
-                    Projekt Ullaredska: Dialektala ord
+                    Projekt Ullaredska: Översättning
                 </title>
                 <!-- load bootstrap css (requires internet!) so you can use their pre-defined css classes to style your html -->
                 <link rel="stylesheet"
@@ -23,11 +23,14 @@
                 <link rel="stylesheet" href="assets/css/main.css"/>
                 <!-- add additional css to overrule the (generic) bootstrap stylesheet -->
                 <style>
-                    .ulla{
-                    color: red;
-                    }
                     .bastext{
                     color: black;
+                    }
+                    .rikssv{
+                    color: #2079C7;
+                    }
+                    h4{
+                    text-transform: uppercase;
                     }
                 </style>
             </head>
@@ -49,26 +52,25 @@
                         <!-- define a row layout with bootstrap's css classes (two columns) -->
                         <div class="row">
                             <div class="col-sm">
-                                <h3>Bilder</h3>
-                            </div>
-                            <div class="col-sm">
-                            </div>
-                            <div class="col-sm">
                                 <h3>Dialektala ord</h3>
                             </div>
+                            <div class="col-sm">
+                            </div>
+                            <div class="col-sm">
+                                <h3>Översättning</h3>
+                            </div>
                         </div>
-                        <!-- set up an image-text pair for each page in your document, and start a new 'row' for each pair -->
+                        <!-- set up a text-text pair for each page in your document, and start a new 'row' for each pair -->
                         <xsl:for-each select="//tei:div[@type='page']">
                             <div class="row">
-                                <!-- fill the first column with this page's image -->
+                                <!-- can I make two sets of rules? if I can't, I'll just copy paste the left code -->
                                 <div class="col-sm">
                                     <article>
-                                        <!-- make an HTML <img> element, with a maximum width of 400 pixels -->
                                         <img class="img-full" src="assets/img/documents/pic.jpg" title="" alt="">
-                                        </img>
+                                        </img>                                      
                                     </article>
                                 </div>
-                                <!-- fill the second column with our transcription -->
+                                <!-- fill the second column with normalisation -->
                                 <div class='col-sm'>
                                     <article class="transcription">
                                         <xsl:apply-templates/>                                      
@@ -125,13 +127,36 @@
         </p>
     </xsl:template>
 
-    <!-- make words with attribute /type "ulla" red -->
-    <xsl:template match="tei:w[@type = 'ulla']">
-        <span class="ulla">
+    <!-- make words that have been translated into Swedish class rikssv or maybe not
+    <xsl:template match="tei:w[@norm]">
+        <span class="rikssv">
             <xsl:apply-templates/>
         </span>
+    </xsl:template> -->
+
+    <xsl:template match="tei:w">       
+        <xsl:choose>
+            <xsl:when test="@type">
+                <span class="rikssv"><xsl:value-of select="@norm"/></span>
+            </xsl:when>
+            <xsl:otherwise>
+                <xsl:apply-templates/>
+            </xsl:otherwise>
+        </xsl:choose>
     </xsl:template>
     
+    <!-- Mikael's snippet
+    <xsl:template match="tei:w">       
+        <xsl:choose>
+            <xsl:when test="@norm">
+                <xsl:value-of select="@norm"/>
+            </xsl:when>
+            <xsl:otherwise>
+                <xsl:apply-templates/>
+            </xsl:otherwise>
+        </xsl:choose>
+    </xsl:template>-->
+        
     <!-- give all metamarks with a @place a class of the same name in the html-->
     <!-- out of the box, the css of this template has classes for 'top-left' and 'top-right' values for metamark[@place]. You can change them in `main.css` if you need to.-->
     <!-- if you want to use other values, be sure to also make corresponding class descriptions in your `main.css` stylesheet. -->
