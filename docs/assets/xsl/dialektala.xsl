@@ -52,8 +52,6 @@
                                 <h3>Bilder</h3>
                             </div>
                             <div class="col-sm">
-                            </div>
-                            <div class="col-sm">
                                 <h3>Dialektala ord</h3>
                             </div>
                         </div>
@@ -116,7 +114,12 @@
         </h4>
     </xsl:template>
 
-
+    <xsl:template match="tei:note">
+        <span class="note">
+            <xsl:apply-templates/>
+        </span>
+    </xsl:template>
+    
     <!-- transform tei paragraphs into html paragraphs -->
     <xsl:template match="tei:p">
         <p class="bastext">
