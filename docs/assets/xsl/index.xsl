@@ -12,7 +12,7 @@
                 <title>
                     <!-- add the title from the metadata. This is what will be shown
                     on your browsers tab-->
-                    DCHM Template: Home
+                    Projekt Ullaredska: Om projektet
                 </title>
                 <!-- load bootstrap css (requires internet!) so you can use their pre-defined css classes to style your html -->
                 <link rel="stylesheet"
@@ -21,7 +21,6 @@
                     crossorigin="anonymous"/>
                 <!-- load the stylesheets in the assets/css folder, where you can modify the styling of your website -->
                 <link rel="stylesheet" href="assets/css/main.css"/>
-                <link rel="stylesheet" href="assets/css/desktop.css"/>
             </head>
             <body>
                 <header>
@@ -29,11 +28,11 @@
                         <xsl:apply-templates select="//tei:titleStmt/tei:title"/>
                     </h1>
                 </header>
-                <nav id="sitenav">
-                    <a href="index.html">Home</a> |
-                    <a href="diplomatic.html">Diplomatic Transcription</a> |
-                    <a href="reading.html">Reading Text</a> |
-                    <a href="toplayer.html">Top Layer</a> |
+                <nav id="sitenav"><a href="index.html">Om projektet</a> |
+                    <a href="transkription.html">Transkription</a> |
+                    <a href="oversattning.html">Översättning</a> |
+                    <a href="dialektala.html">Dialektala ord</a> |
+                    <a href="slatter.html">Slåtter</a>
                 </nav>
                 <main id="manuscript">
                     <!-- bootstrap "container" class makes the columns look pretty -->
@@ -92,8 +91,8 @@
                   			    <img src="assets/img/logos/cc.svg" class="copyright_logo" alt="Creative Commons License"/><img src="assets/img/logos/by.svg" class="copyright_logo" alt="Attribution 4.0 International"/>
                   			</a>
                   		</div>
-                  		<div class="copyright_text">
-                         2022 Wout Dillen.
+                      <div class="copyright_text">
+                          ©2024 Project DIFBOT: AnCa, ClaDe &amp; NiLe
                       </div>
                     </div>
                 </div>
