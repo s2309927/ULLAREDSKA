@@ -143,6 +143,14 @@
             <xsl:apply-templates/>
         </span>
     </xsl:template> 
+    
+    <!-- in order to make signature italic, transform into class, then define in css -->
+    <xsl:template match="tei:rs[@key='signature']">
+        <span class="signature">
+            <xsl:apply-templates/>
+        </span>
+    </xsl:template>
+    
 
 
 </xsl:stylesheet>
