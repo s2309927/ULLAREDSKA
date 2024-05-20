@@ -43,6 +43,9 @@
                     footer {
                     border-top: 1px solid white;
                     }
+                    .slåtter{
+                    color: #00FF00;
+                    }
                 </style>
             </head>
             <body>
@@ -64,8 +67,6 @@
                         <div class="row">
                             <div class="col-sm">
                                 <h3>Bilder</h3>
-                            </div>
-                            <div class="col-sm">
                             </div>
                             <div class="col-sm">
                                 <h3>Slåtter</h3>
@@ -130,7 +131,12 @@
         </h4>
     </xsl:template>
 
-
+    <xsl:template match="tei:note">
+        <span class="note">
+            <xsl:apply-templates/>
+        </span>
+    </xsl:template>
+    
     <!-- transform tei paragraphs into html paragraphs -->
     <xsl:template match="tei:p">
         <p class="bastext">
@@ -142,7 +148,7 @@
 
     <!--turning all hay-related words and phrases into green-->
     <xsl:template match="tei:rs[@key='slåtter']">
-        <span style="color : #00FF00">
+        <span class="slåtter">
             <xsl:apply-templates/>
         </span>
     </xsl:template>
