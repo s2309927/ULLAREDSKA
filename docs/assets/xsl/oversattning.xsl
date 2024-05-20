@@ -29,6 +29,9 @@
                     .rikssv{
                     color: #2079C7;
                     }
+                    .ulla{
+                    color: red;
+                    }
                     h4{
                     text-transform: uppercase;
                     }
