@@ -4,127 +4,110 @@
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-     <fileDesc> <!--Describing the DIGITAL FILE that we've created and are working in-->
+     <fileDesc>
         <titleStmt>
-           <title>Markup of SLÖTTA I HJÄRTARE GENOM TIERA</title> <!-- Viktigt med "markup of! Visar på denna fil ej den fysiska texten -->
-           <author>
-              <name>Ingemar i Hjärtare (Johansson)</name>
-           </author>
+           <title>Projekt Ullaredska</title>
+           <author>Ingemar Johansson</author>
            <respStmt>
-              <resp>Originally printed by</resp>
-              <name>Fagereds Pastorats Hembygdsförening</name>
+              <resp>Digitisation, transcription, translation, markup and publication by</resp>
+              <persName>Anneli Carlström</persName>
+              <persName>Clara Delding</persName>
+              <persName>Nina Leivo</persName>
+              <orgName>University of Borås</orgName>
            </respStmt>
-           <!-- <respStmt>
-              <resp>Revised and edited by</resp>
-              <name>SOMEONE WHO EDITED THE TEXT</name>
-           </respStmt>-->
         </titleStmt>
         <editionStmt>
-           <p>This is the first edition of this text and published for the annual booklet series "Krönika från Fagereds Pastorat" (year 2022)</p>
+           <p>This is the first edition of this text and published for the annual booklet series "Krönika från Fagereds Pastorat" (December 2022)</p>
         </editionStmt>
-        <extent>
-           <num>4</num>
-           <unit>pages A5</unit>
-        </extent>
         <publicationStmt>
-           <distributor>Fagereds Pastorats Hembygdsförening</distributor>
-           <address>
-              <addrLine>Brokared 335, 310 61 Ätran, Sweden</addrLine>
-           </address>
+           <publisher>University of Borås</publisher>
+           <authority>Anneli Carlström</authority>
+           <authority>Clara Delding</authority>
+           <authority>Nina Leivo</authority>
            <availability>
-              <p>Available to read as a part of Fagereds Pastorats Hembygdsförening annual booklet "Krönika från Fagereds Pastorat 2022"</p>
+              <p>All rights reserved to Fagereds Pastorats Hembygdsförening.</p>
            </availability>
-           <date when="2022">2022</date>
+           <date when="2024-05">May 2024</date>
         </publicationStmt>
         <sourceDesc>
            <bibl>
               <title>SLÖTTA I HJÄRTARE GENOM TIERA</title>
-              <author>Ingemar i Hjärtare (Johansson)</author>
+              <author>Ingemar Johansson</author>
               <publisher>Fagereds Pastorats Hembygdsförening</publisher>
               <pubPlace>Fagered</pubPlace>
-              <date>2023</date>
+              <date when="2022-12">December 2022</date>
+              <address>
+                 <addrLine>Brokared 335, 310 61 Ätran, Sweden</addrLine>
+              </address>
            </bibl>
            <msDesc type="chronicle">
               <msIdentifier>
+                 <placeName>Ullared</placeName>
+                 <institution>Fagereds Pastorats Hembygdsförening</institution>
                  <repository xml:lang="se">Fagereds Pastorats Hembygdsförening</repository>
+                 <msName>Slötta i Hjärtare</msName>
                  <altIdentifier>
-                    <idno type="URI">https://www.fageredspastoratshembygdsf.se/2022.htm</idno> <!-- Denna leder till hela krönikan för det året! -->
+                    <idno type="URI">https://www.fageredspastoratshembygdsf.se/2022.htm</idno>
                  </altIdentifier>
               </msIdentifier>
-              <physDesc n="2022"> <!-- 2022 betyder i detta fall utgåvan av hela krönikan  -->
+              <msContents>
+                 <summary>The booklet is part of a series of booklets that is published once a year, going back to 1957.
+                    This particular booklet is printed in black on white paper in a A5-size, on 96 pages plus the covers making it an even 100.
+                    All the pictures inside the booklet are also black-and-white. The booklet documents events and notable happenings in the local area.
+                    Our source text consists of 4 pages and documents in local dialect the changes in procedure surrounding the making of hay.</summary>
+                 <textLang>Swedish</textLang>
+              </msContents>
+              <physDesc n="2022">
                  <objectDesc> 
-                    <supportDesc> 
-                       <p>The pages consists of<material>paper</material>, printed in black ink. The main text uses 
-                          a serif font, similar looking to Times New Roman. The heading or title of the text is printed 
-                          in a sans-serif font. The text uses indent on the first row of each new paragraph. 
-                          The size of the printed pages are A5 (cm x cm) and the text totals four (4) pages and no images. </p>
+                    <supportDesc>
+                       <extent>
+                          <num>4</num>
+                          <unit>pages A5</unit>
+                       </extent>
                     </supportDesc> 
                     <layoutDesc>
                        <p>The layout consists of one column of text per page which spans over the majority of the page, except some 
                           margins around the page. The text is justified, so that each row ends in the same place. New paragraphs are 
                           indicated by an indent at the start of the first row of the new paragraph.</p>
+                       <p>The pages consists of<material>paper</material>, printed in black ink. The main text uses 
+                          a serif font, similar looking to Times New Roman. The heading or title of the text is printed 
+                          in a sans-serif font. The text uses indent on the first row of each new paragraph. 
+                          The size of the printed pages are A5 (cm x cm) and the text totals four (4) pages and no images. </p>
                     </layoutDesc>
                  </objectDesc>
                  <typeDesc>
-                    <p>Uses an  black letter serif font. Row spacing is normal, approximately 1.0 </p>
+                    <p>Uses a black letter serif font. Row spacing is normal, approximately 1.0.</p>
                  </typeDesc>
               </physDesc> 
            </msDesc>
-           
-           <!--<ocr>
-              <software>OCR Software Name</software>
-              <language>English</language>
-              <accuracy>95%</accuracy>
-           </ocr>-->
-           
-           <!-- FÅ IN NÅGOT HÄR OM HUR VI ANVÄNT TEX OCR OCH HUR ÖVRIG INKODNING GÅTT TILL I DIGITALA FILEN -->
         </sourceDesc>
      </fileDesc>
-     <encodingDesc> <!-- description of encoding practices -->
+     <encodingDesc>
         <projectDesc>
            <p>XML created for describing the semantics and grammatical meaning of the text written in ullaredska.
-           The aim was to mark up the dialectical words and with TEI provide the "normalised" (standard swedish)
-            word that corresponds with each dialectical one. Further markup aimed to describe the structure of the text,
-           focusing on paragraphs, linebreaks etc. The project as a whole was created as a part of the course 
-           Digitalisering För Bevarande Och Tillgänglighet at the University of Borås as a part of the masterprogram for 
-           Library and Information Science. The course took place in the spring semester of year 2024.</p>
+           The aim was to mark up the dialectical words and with TEI provide the "normalised" (standard Swedish)
+           word that corresponds with each dialectical one. Further markup aimed to describe the structure of the text,
+           focusing on paragraphs, linebreaks etc.</p>
+           <p>The project as a whole was created as a part of the course Digitalisering För Bevarande Och Tillgänglighet at the
+           University of Borås as a part of the masterprogram for Library and Information Science. The course took place in
+           the spring semester of year 2024.</p>
+           <p>The goal of this project was to provide preservation for a dialect that is vanishing because of the general
+           death of dialects. Providing the translation is meant to increase usability for linguists and language researchers
+           in the hope of preserving some of the older word class forms that have disappeared from the official language.</p>
+           <p>In the digitisation process the goal has not been in presenting the text visually exactly as it is in the booklet,
+           but instead the focus has been in markup of as many linguistic aspects as possible within the time frame for the project.</p>
         </projectDesc>
         <editorialDecl>
            <normalization>
               <p>No normalization was made since the text was supposed to reflect the original 
                  accent in which is was written. Normalisation only happened in the markup, not in the text itself.</p>
            </normalization>          
-           <p>This electronic text file was created using optical character recognition (OCR),
-              <name type="software">Tesseract</name>.
-              No corrections have been made to the OCR-ed text and no editing has been done to the content 
-              of the original document. Tesseract estimated an accuracy of between 87 and 96 percent (%).</p>
+           <p>This electronic text file was created using optical character recognition (OCR), <name type="software">Tesseract</name>.
+              Only a few corrections have been made to the text after the OCR-process and no editing has been done to the content 
+              of the original document. HOCR created with Tesseract estimated an accuracy of between 87 and 96 percent (%) per word.</p>
         </editorialDecl>
      </encodingDesc>
-     <profileDesc> <!--    -->
-        <!--<abstract>
-           <p>ABSTRACT GÄLLER INTE VRÅR TYP AV TEXT</p>
-        </abstract> -->
-        <creation>
-           <roleName>Translator</roleName>
-           <name>Anneli Carlström</name>
-           <date>2024</date>
-           <country>Sweden</country>
-           <region>Skåne</region>
-        </creation>
-        <creation>
-           <roleName>OCR-navigator</roleName>
-           <name>Nina Leivo</name>
-           <date>2024</date>
-           <country>Sweden</country>
-           <region>Södermanland</region>
-        </creation>
-        <creation>
-           <roleName>TEI-developer</roleName>
-           <name>Clara Delding</name>
-           <date>2024</date>
-           <country>United Kingdom</country>
-           <region>Leamington Spa</region>
-        </creation>
+     <profileDesc>
         <textClass>
            <keywords>
               <term>Chronicle</term>
@@ -136,7 +119,7 @@
         </langUsage>
         <langUsage>
            <p>The language used in the text represents ullaredska,
-              spoken in the swedish region of Ullared i Halland,
+              spoken in the Swedish region of Ullared i Halland,
               and is a regional version of the Swedish accent halländska</p>
         </langUsage>
         <calendarDesc>
@@ -145,13 +128,75 @@
            </calendar>
         </calendarDesc>
      </profileDesc>
-     <!--<xenoData>
-         HÄR KAN VI FÅ IN METADATA SOM EJ ÄR I TEIFORMAT. Eventuellt ta bort??? 
-     </xenoData> -->
-     <!--<revisionDesc>  record of changes (optional). KANSKE FÅ IN NÄR VI KONVERTERADE FRÅN HÖGUPPLÖST TILL PDF???
-        <change when="1991-11-11" who="#LB"> deleted chapter 10 </change> EXEMPELVIS
-     </revisionDesc> -->
   </teiHeader>
+   <facsimile>
+      <surface xml:id="cover">
+         <figure>
+            <label>Krönika: främre omslag</label>
+            <figDesc>Front cover of the booklet "Krönika från Fagereds Pastorat 2022". This scan depicts a picture taken by
+               <persName>Eije Sjöberg</persName> from Fagered. In the picture are depicted two arctic black throated loons, swimming in the lake of
+               <placeName>Toresjö</placeName>. The picture is called <label>Storlommar i Töresjö</label>.</figDesc>
+            <graphic url="https://github.com/s2309927/ULLAREDSKA/blob/main/docs/assets/img/documents/cover.jpg"/>
+            <graphic url="https://github.com/s2309927/ULLAREDSKA/blob/main/collection/img/edit_cover.tiff"/>
+         </figure>
+      </surface>
+      <surface xml:id="back">
+         <figure>
+            <label>Krönika: bakre omslag</label>
+            <figDesc>Back cover of the booklet "Krönika från Fagereds Pastorat 2022". This scan shows three rows of text in the lower part.
+            The information given is name for the cover picture <label>Storlommar i Toresjö</label>, photographer for the cover <persName>Eije Sjöberg</persName>
+            as well as the illustrator <persName>Karl-Gösta Johansson</persName>for the whole booklet.</figDesc>
+            <graphic url="https://github.com/s2309927/ULLAREDSKA/blob/main/docs/assets/img/documents/back.jpg"/>
+            <graphic url="https://github.com/s2309927/ULLAREDSKA/blob/main/collection/img/edit_backside.tiff"/>
+         </figure>
+      </surface>
+      <surface xml:id="page10">
+         <figure>
+            <label>Sida 10</label>
+            <figDesc>The heading of the text is printed in a sans serif type of font and all the letters are uppercase. The body consists of
+               black text on white background, font is a type of serif. Row spacing is normal, appr. 1.0. The text is justified, so that each
+               row ends in the same place. New paragraphs are indicated by an indent at the start of the first row of the new paragraph.
+               There are no empty lines in between paragraphs. Page number is placed in the outer left corner in the bottom of the page.</figDesc>
+            <graphic url="https://github.com/s2309927/ULLAREDSKA/blob/main/docs/assets/img/documents/page10.jpg"/>
+            <graphic url="https://github.com/s2309927/ULLAREDSKA/blob/main/collection/img/orig_text_portrait.tiff"/>
+         </figure>
+      </surface>
+      <surface xml:id="page11">
+         <figure>
+            <label>Sida 11</label>
+            <figDesc>The body text consists of black text on white background, font is a type of serif. Row spacing is normal, appr. 1.0.
+               The text is justified, so that each row ends in the same place. New paragraphs are indicated by an indent at the start of
+               the first row of the new paragraph. There are no empty lines in between paragraphs. Page number is placed in the outer
+               right corner in the bottom of the page.</figDesc>
+            <graphic url="https://github.com/s2309927/ULLAREDSKA/blob/main/docs/assets/img/documents/page11.jpg"/>
+            <graphic url="https://github.com/s2309927/ULLAREDSKA/blob/main/collection/img/orig_text_portrait.tiff"/>
+         </figure>
+      </surface>
+      <surface xml:id="page12">
+         <figure>
+            <label>Sida 12</label>
+            <figDesc>The body text consists of black text on white background, font is a type of serif. Row spacing is normal, appr. 1.0.
+               The text is justified, so that each row ends in the same place. New paragraphs are indicated by an indent at the start of
+               the first row of the new paragraph. There are no empty lines in between paragraphs. Page number is placed in the outer
+               left corner in the bottom of the page.</figDesc>
+            <graphic url="https://github.com/s2309927/ULLAREDSKA/blob/main/docs/assets/img/documents/page12.jpg"/>
+            <graphic url="https://github.com/s2309927/ULLAREDSKA/blob/main/collection/img/orig_text_portrait.tiff"/>
+         </figure>
+      </surface>
+      <surface xml:id="page13">
+         <figure>
+            <label>Sida 13</label>
+            <figDesc>The body text consists of black text on white background, font is a type of serif. Row spacing is normal, appr. 1.0.
+               The text is justified, so that each row ends in the same place. New paragraphs are indicated by an indent at the start of
+               the first row of the new paragraph. There are no empty lines in between paragraphs. Page number is placed in the outer
+               right corner in the bottom of the page. Author's signature is in the end of this page and he has used his first name
+               <persName>Ingemar Johansson</persName>together with the <placeName>Hjärtared</placeName> in its dialect form.
+               The signature is aligned on the right side of the page, above the page number.</figDesc>
+            <graphic url="https://github.com/s2309927/ULLAREDSKA/blob/main/docs/assets/img/documents/page13.jpg"/>
+            <graphic url="https://github.com/s2309927/ULLAREDSKA/blob/main/collection/img/orig_text_portrait.tiff"/>
+         </figure>
+      </surface>
+   </facsimile>
   <text>
       <body>
          <div type="page">
@@ -174,7 +219,7 @@
             <lb/><w norm="fram" pos="RR">fram</w> <w norm="på" pos="II">på</w> <w norm="stången" pos="NN1" type="ulla">staonga</w></rs>, <w norm="och" pos="CC" type="ulla">å</w> <w norm="sedan" pos="CS" type="ulla">så</w> <w norm="en" pos="AT1">en</w> <rs key="slåtter"><w norm="krok" pos="NN1">krok</w> <w norm="i" pos="II">i</w> <w norm="änden" pos="NN1" type="ulla">ännen</w> <w norm="som" pos="PN1">som</w> <w norm="passade" pos="VVD" type="ulla">passte</w> <w norm="på" pos="II">på</w> <w norm="den" pos="AT">den</w> <w norm="ena" pos="PN1" type="ulla">ene</w> <w norm="lyftarmen" pos="NN1">lyftarmen</w> <w norm="på" pos="II">på</w>
             <lb/><w norm="traktorn" pos="NN1" type="ulla">traoktorn</w></rs>. <w norm="Så" pos="CS">Så</w> <w norm="när" pos="RR">när</w> <w norm="en" pos="PN1">en</w> <rs key="slåtter"><w norm="drog" pos="VVD" type="ulla">dro</w> <w norm="i" pos="II">i</w> <w norm="lyftspaken" pos="NN1">lyftspaken</w> <w norm="så" pos="CS">så</w> <w norm="lyfte det" pos="VVD" type="ulla">lötte't</w> <w norm="i" pos="II">i</w> <w norm="skärbladen" pos="NN2" type="ulla">lien</w></rs> <w norm="på" pos="II">på</w> <w norm="maskinen" pos="NN1">maskinen</w>. <w norm="Sedan" pos="RR" type="ulla">Sen</w> <w norm="gick" pos="VVD">gick</w>
             <lb/><w norm="det" pos="PPH1" type="ulla">et</w> <w norm="väl" pos="RR" type="ulla">la</w> <w norm="bra" pos="JJ">bra</w> <w norm="så" pos="RR">så</w> <w norm="länge" pos="JJ">länge</w> <w norm="där" pos="RR">där</w> <w norm="var" pos="VBDZ" type="ulla">va</w> <rs key="slåtter"><w norm="dåligt med" pos="JJ" type="ulla">usselt</w> <w norm="gräs" pos="NN">gräs</w></rs> <w norm="eller" pos="CC" type="ulla">älla</w> <w norm="det" pos="PPH1" type="ulla">de</w> <w norm="var" pos="VBDZ" type="ulla">va</w> <w norm="torrt" pos="JJ" type="ulla">tört</w>, <w norm="men" pos="CCB">men</w> <w norm="var" pos="VBDZ" type="ulla">va</w> <w norm="där" pos="RR">där</w> <rs key="slåtter"><w norm="bra med" pos="JJ" type="ulla">bra</w> <w norm="gräs" pos="NN">gräs</w></rs> <w norm="eller" pos="CC" type="ulla">älla</w>
-            <lb/><w norm="det" pos="PPH1" type="ulla">de</w> <w norm="var" pos="VBDZ" type="ulla">va</w> <rs key="slåtter"><w norm="blött" pos="JJ" type="ulla">vått</w> <w norm="och" pos="CC" type="ulla">å</w> <w norm="[-saknas-]" pos="" type="ulla">lejder</w></rs> <w norm="så" pos="CS">så</w> <w norm="var" pos="VBDZ" type="ulla">va</w> <w norm="ju" pos="RR">ju</w> <w norm="maskinen" pos="NN1">maskinen</w> <w norm="för" pos="RR">för</w> <w norm="lätt" pos="JJ">lätt</w> <w norm="när" pos="RR">när</w> <w norm="där" pos="RR">där</w> <w norm="inte" pos="XX">inte</w> <w norm="satt" pos="VVD">satt</w> <w norm="någon" pos="PN1" type="ulla">nön</w> <w norm="på" pos="II">på</w> <rs key="slåtter"><w norm="sitsen" pos="NN1" type="ulla">setsen</w></rs>,
+            <lb/><w norm="det" pos="PPH1" type="ulla">de</w> <w norm="var" pos="VBDZ" type="ulla">va</w> <rs key="slåtter"><w norm="blött" pos="JJ" type="ulla">vått</w> <w norm="och" pos="CC" type="ulla">å</w> <w norm="[-saknas-]" pos="" type="ulla">lejder</w><note>lett: en form av orden 'lida, lidande'</note></rs> <w norm="så" pos="CS">så</w> <w norm="var" pos="VBDZ" type="ulla">va</w> <w norm="ju" pos="RR">ju</w> <w norm="maskinen" pos="NN1">maskinen</w> <w norm="för" pos="RR">för</w> <w norm="lätt" pos="JJ">lätt</w> <w norm="när" pos="RR">när</w> <w norm="där" pos="RR">där</w> <w norm="inte" pos="XX">inte</w> <w norm="satt" pos="VVD">satt</w> <w norm="någon" pos="PN1" type="ulla">nön</w> <w norm="på" pos="II">på</w> <rs key="slåtter"><w norm="sitsen" pos="NN1" type="ulla">setsen</w></rs>,
             <lb/><w norm="då" pos="CS">då</w> <w norm="ville det" pos="VVD" type="ulla">velle't</w> <w norm="glida" pos="VVI" type="ulla">kasa</w>. <w norm="Så" pos="RR">Så</w> <w norm="då" pos="CS">då</w> <w norm="kunde det" pos="VM" type="ulla">kånne't</w> <w norm="vara" pos="VBI" type="ulla">bära</w> <w norm="till" pos="II" type="ulla">te</w> <w norm="att" pos="CS">att</w> <w norm="jag" pos="PPIS1" type="ulla">ja</w> <w norm="fick" pos="VVD">fick</w> <rs key="slåtter"><w norm="sitta" pos="VVI" type="ulla">setta</w> <w norm="där" pos="RR">där</w> <w norm="som" pos="CSA">som</w> <w norm="tyngd" pos="NN" type="ulla">tynge</w></rs>. <w norm="Sådant" pos="PN" type="ulla">Söddet</w>
             <lb/><w norm="kunde" pos="VM" type="ulla">kånne</w> <w norm="ju" pos="RR">ju</w> <w norm="en" pos="AT1">en</w> <w norm="småpojk" pos="NN1" type="ulla">småpajk</w> <w norm="duga" pos="VVI" type="ulla">dåva</w> <w norm="till" pos="II" type="ulla">te</w>.</p>
             
